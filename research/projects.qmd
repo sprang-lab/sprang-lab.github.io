@@ -1,0 +1,28 @@
+---
+title: "Projects"
+subtitle: "Active and past research projects"
+---
+
+## Active Projects
+
+### DNA-LLM
+
+Large language models for genomic sequence analysis.
+
+<!-- TODO: Add description, links, collaborators -->
+
+### OpenBioML
+
+Open-source machine learning for biology.
+
+<!-- TODO: Add description, links, collaborators -->
+
+### Biosecurity
+
+Computational approaches to biosecurity and sequence screening.
+
+<!-- TODO: Add description, links, collaborators -->
+
+## Past Projects
+
+*Coming soon.*

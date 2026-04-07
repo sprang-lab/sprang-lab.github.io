@@ -1,0 +1,12 @@
+*.docx
+/docs/
+
+/.claude/
+/.github/
+/_site/
+
+# Quarto
+/_site/
+/.quarto/
+_freeze/
+**/*.quarto_ipynb

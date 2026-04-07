@@ -1,0 +1,10 @@
+---
+title: "Datasets"
+subtitle: "Data we use and share"
+---
+
+## Genomics Datasets
+
+<!-- TODO: Add links to Hugging Face DNA-LLM group, NCBI datasets, etc. -->
+
+*Dataset listings coming soon.*

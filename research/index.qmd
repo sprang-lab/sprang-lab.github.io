@@ -1,0 +1,20 @@
+---
+title: "Research"
+subtitle: "What we work on"
+---
+
+Our research spans computational biology, machine learning for genomics, and biosecurity. Below are our main themes — see [Publications](publications.qmd) for the full paper list and [Projects](projects.qmd) for active work.
+
+## Research Themes
+
+### DNA Language Models
+
+Applying large language model architectures to genomic sequences to learn the grammar of DNA.
+
+### Biosecurity
+
+Computational approaches to biosecurity challenges, including sequence screening and risk assessment.
+
+### Open Science & Reproducibility
+
+Building open-source tools and sharing datasets to make computational biology more accessible and reproducible.

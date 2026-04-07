@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Sprang and Friends"
+  description: "Research, code, and ideas from Dr. Maximilian Sprang and collaborators"
+  navbar:
+    background: dark
+    left:
+      - text: "People"
+        href: people/index.qmd
+      - text: "Research"
+        menu:
+          - text: "Overview"
+            href: research/index.qmd
+          - text: "Publications"
+            href: research/publications.qmd
+          - text: "Projects"
+            href: research/projects.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+      - text: "Resources"
+        menu:
+          - text: "Datasets"
+            href: resources/datasets.qmd
+          - text: "Tools"
+            href: resources/tools.qmd
+    right:
+      - icon: github
+        href: https://github.com/sprangandfriends
+      - icon: envelope
+        href: mailto:masprang@uni-mainz.de
+  page-footer:
+    background: dark
+    center: "© 2026 Sprang and Friends · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: true
+
+bibliography: references.bib

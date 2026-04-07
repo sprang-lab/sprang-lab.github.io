@@ -1,0 +1,43 @@
+---
+title: "People"
+subtitle: "The team behind Sprang and Friends"
+toc: false
+---
+
+## Core Team
+
+::: {.grid}
+
+::: {.g-col-3}
+::: {.person-card}
+![Dr. Maximilian Sprang](../images/Max-profile.jpg){.profile-photo}
+
+### Dr. Maximilian Sprang
+
+Lead Bioinformatician, UMC Mainz
+
+[Full CV &rarr;](sprang.qmd)
+:::
+:::
+
+:::
+
+## Friends & Collaborators
+
+::: {.grid}
+
+::: {.g-col-3}
+::: {.person-card}
+![Placeholder](../images/placeholder-avatar.svg){.profile-photo}
+
+### Your Name Here
+
+*Want to join? Submit a PR!*
+:::
+:::
+
+:::
+
+---
+
+**How to get listed:** Fork the repository, add a `.qmd` file with your bio under `people/`, and open a pull request. You'll show up here and your posts will link back to your profile.

@@ -1,0 +1,75 @@
+---
+title: "Dr. Maximilian Sprang"
+subtitle: "Computational Biology · Machine Learning · Genomics"
+toc: true
+---
+
+## About
+
+I am a computational biologist and Lead Bioinformatician at the University Medical Center of Johannes Gutenberg University Mainz, Germany. My research focuses on machine learning for genomics, with particular interests in DNA language models, data quality in multi-omics, and the biosecurity implications of generative AI in the life sciences. I am a father of two.
+
+I maintain active international collaborations, including work with [DeoxyTech Ltd.](https://deoxytech.com/) (Manchester, UK) on DNA embedding models, involvement in the [OpenBioML](https://www.openbioml.org/) open science community, and partnerships with researchers across Europe on biosecurity and AI safety in biology.
+
+## Education
+
+| Year | Degree | Institution |
+|------|--------|-------------|
+| 2024 | **Dr. rer. nat.** (*summa cum laude*), Bioinformatics | Johannes Gutenberg University Mainz |
+|      | *Thesis: Identification and exploration of quality-related characteristics in multi-omics data using machine learning* | Supervisor: Prof. Miguel Andrade-Navarro |
+| 2020 | **M.Sc.** Applied Bioinformatics | Johannes Gutenberg University Mainz |
+| 2016 | **B.Sc.** Biology | Johannes Gutenberg University Mainz |
+
+## Professional Experience
+
+| Period | Position | Institution |
+|--------|----------|-------------|
+| Since 03/2025 | **Lead Bioinformatician** | University Medical Center, JGU Mainz |
+| 06/2024 – 12/2024 | Senior Researcher | German Research Center for Artificial Intelligence (DFKI), Kaiserslautern |
+| Since 01/2023 | Volunteer & Project Lead | OpenBioML |
+| 07/2020 – 07/2024 | PhD Student / PostDoc in Bioinformatics | Johannes Gutenberg University Mainz |
+| 08/2017 – 09/2020 | Research Assistant | University Medical Center, JGU Mainz |
+
+## International Collaborations & Activities
+
+- **Scientific Advisor** to [DeoxyTech Ltd.](https://deoxytech.com/), a biotech start-up in Manchester, UK, working on DNA embedding models
+- **OpenBioML** — active contributor and project lead in NeuroAI, generative modelling for bio-sequences, and science policy
+- **Biosecurity consortium** — co-leading efforts with partners at the Robert Koch Institute (RKI) and the German Research Center for Artificial Intelligence (DFKI) on security and dual-use risks of generative AI in biology, funded by the Rhine-Main Universities and the Wübben Stiftung Wissenschaft
+- **Merck Innovation Cup** — selected participant (2022, 1% admission rate), invited Coach for Team Digital Medicine (2025)
+- **Mentoring** — mentor at [AI Grid](https://www.ai-grid.de/) (BMBF-funded), mentee in the curAMento programme (curATime)
+
+## Funding
+
+Over **€200,000** in attracted funding as PI or Co-PI, plus substantial compute grants. Selected awarded grants:
+
+| Period | Title | Funder |
+|--------|-------|--------|
+| 2026 | Erring Rigorously — On quantifying the impact of errors in the wet lab on downstream analysis | Einstein Foundation |
+| 2025–2026 | Generative AI for Biological Sequence Design — Opportunities, Challenges and Responsible Innovation (Sandpit) | Wübben Stiftung Wissenschaft |
+| 2025 | Seed Funding for Consortium to Benchmark Security and Dual-Use Risks of AI Models in Biology | Rhine-Main Universities |
+| 2026 | Guided Diffusion Models for Targeted Phage Genome Generation | Carl-Zeiss-Foundation |
+| 2025 | Comprehensive Dataset Development and Ethical Frameworks for AI-Driven Synthetic Genomics | SynGen / Carl-Zeiss-Foundation |
+| 2024–2025 | Compute allocation at the NHR-Cluster Göttingen (2.5M+ core hours) | NHR e.V. |
+| 2024–2025 | CurAFellow — Exposome modelling of Chest Pain unit admissions | curATime / BMBF |
+| 2023–2024 | MMAseq — Mixed Models for Artifacts in RNA-Sequencing | Carl-Zeiss-Foundation / EAI |
+
+## Academic Distinctions
+
+- **Einstein Early Career Researcher Award 2026** — project "Erring Rigorously"
+- **Boehringer Ingelheim Foundation Dissertation Award 2025**
+- **Doctorate *summa cum laude*** (2024)
+- **Medizinsonderpreis**, Rhineland-Palatinate Idea Competition (2022) — "Draw\@Home" automated blood sampling concept
+- **Merck Innovation Cup** participant (2022, 1% admission rate of 3,800+ applicants)
+
+## Teaching
+
+- Bachelor and Master courses in Bioinformatics: programming, gene expression analysis, and machine learning
+- Supervision of PhD students, Master's students, MD candidates, and Bachelor students in functional genomics, sequence design, and data integration
+
+## Publications
+
+See the full list on the [publications page](../research/publications.qmd).
+
+## Contact
+
+- **ORCID:** [0000-0002-8438-4747](https://orcid.org/0000-0002-8438-4747)
+- **Institution:** University Medical Center, Johannes Gutenberg University Mainz, Germany
