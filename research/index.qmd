@@ -3,6 +3,10 @@ title: "Research"
 subtitle: "What we work on"
 ---
 
+::: {.callout-note}
+This page is under construction. More details on our research themes will follow in the coming weeks.
+:::
+
 Our research spans computational biology, machine learning for genomics, and biosecurity. Below are our main themes — see [Publications](publications.qmd) for the full paper list and [Projects](projects.qmd) for active work.
 
 ## Research Themes

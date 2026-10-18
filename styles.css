@@ -1,5 +1,5 @@
 /* ==========================================================
-   Sprang and Friends — Blue / Steelblue / Violet palette
+   Sprang Lab (BioAI Group) — Blue / Steelblue / Violet palette
    ========================================================== */
 
 /* --- Palette variables --- */
@@ -106,6 +106,17 @@ a:hover {
   font-size: 1.15rem;
 }
 
+.hero-banner .hero-tagline {
+  display: inline-block;
+  color: white;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.95rem;
+  border-left: 3px solid var(--sf-light-violet);
+  padding-left: 0.6rem;
+}
+
 /* --- Profile images --- */
 .profile-photo {
   border-radius: 50%;
@@ -122,7 +133,9 @@ a:hover {
 
 .person-card img {
   width: 150px;
-  height: 150px;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
   margin-bottom: 1rem;
 }
 
@@ -134,6 +147,70 @@ a:hover {
 .person-card p {
   color: var(--sf-muted);
   font-size: 0.9rem;
+}
+
+/* --- Alumni page entries --- */
+.alumni-entry {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--sf-light-blue);
+}
+
+.alumni-entry img {
+  width: 140px;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+}
+
+.alumni-entry h3 {
+  margin-top: 0.5rem;
+}
+
+.alumni-role {
+  color: var(--sf-muted);
+  font-size: 0.9rem;
+}
+
+.alumni-now {
+  display: inline-block;
+  background-color: var(--sf-light-blue);
+  color: var(--sf-dark);
+  font-size: 0.85rem;
+  padding: 0.2rem 0.7rem;
+  border-radius: 12px;
+}
+
+@media (max-width: 575.98px) {
+  .alumni-entry .g-col-12:first-child {
+    text-align: center;
+  }
+}
+
+/* --- Joint papers list (profiles and alumni) --- */
+.joint-papers {
+  background: var(--sf-bg);
+  border-left: 3px solid var(--sf-violet);
+  border-radius: 0 6px 6px 0;
+  padding: 0.8rem 1rem 0.2rem;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.joint-papers ul {
+  padding-left: 1.1rem;
+}
+
+.joint-papers li {
+  margin-bottom: 0.5rem;
+}
+
+/* --- Full photo on individual profile pages --- */
+.profile-portrait {
+  width: 100%;
+  max-width: 320px;
+  border-radius: 10px;
+  border-bottom: 4px solid var(--sf-violet);
+  box-shadow: 0 4px 16px rgba(30, 45, 66, 0.15);
 }
 
 /* --- Tables --- */

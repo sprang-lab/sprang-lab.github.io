@@ -1,0 +1,33 @@
+---
+title: "Giorgia D'Amico"
+subtitle: "Master's Student · Applied Bioinformatics · Student Research Assistant, JGU Mainz"
+toc: false
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](../images/profiles/giorgia_d-amico.jpeg){.profile-portrait fig-alt="Giorgia D'Amico"}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+## About
+
+I am an M.Sc. student in Applied Bioinformatics and a student research assistant at JGU Mainz, working at the intersection of AI and biology.
+
+## Project: Generative AI for bacteriophage genomes
+
+My project investigates how AI can learn and generate biological DNA sequences. Specifically, my research spans from alignment-free sequence analysis and learned genomic representations to the generative modelling of bacteriophage DNA, utilizing both autoregressive and diffusion-based approaches. By building reproducible pipelines for training, inference, and validation, I explore how AI can design diverse and biologically plausible phage genomes, opening new possibilities for synthetic genomics.
+
+::: {.joint-papers}
+**Papers with the lab**
+
+- **HA Hassan**, **G D'Amico**, **M Sprang**. **DVQ: A library for the visual and statistical representation of nucleotide sequences.** Work in progress · [github.com/dna-llm/dvq](https://github.com/dna-llm/dvq)
+:::
+
+:::
+
+:::
+
+[&larr; Back to People](index.qmd)

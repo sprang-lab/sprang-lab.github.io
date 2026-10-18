@@ -1,12 +1,13 @@
 *.docx
 /docs/
+/emai_pdfs_texts_etc/
 
 /.claude/
-/.github/
-/_site/
 
-# Quarto
+# Quarto (incl. Proton Drive sync-conflict copies of the build folder)
 /_site/
+/_site */
 /.quarto/
 _freeze/
 **/*.quarto_ipynb
+

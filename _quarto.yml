@@ -1,15 +1,22 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "**/*.qmd"
+    - "!resources/"   # Resources section parked for now; see README.md
 
 website:
-  title: "Sprang and Friends"
-  description: "Research, code, and ideas from Dr. Maximilian Sprang and collaborators"
+  title: "Sprang Lab"
+  description: "Sprang Lab, the BioAI group of Dr. Maximilian Sprang at Johannes Gutenberg University Mainz"
   navbar:
     background: dark
     left:
       - text: "People"
-        href: people/index.qmd
+        menu:
+          - text: "Team"
+            href: people/index.qmd
+          - text: "Alumni"
+            href: people/alumni.qmd
       - text: "Research"
         menu:
           - text: "Overview"
@@ -20,26 +27,23 @@ website:
             href: research/projects.qmd
       - text: "Blog"
         href: blog/index.qmd
-      - text: "Resources"
-        menu:
-          - text: "Datasets"
-            href: resources/datasets.qmd
-          - text: "Tools"
-            href: resources/tools.qmd
     right:
       - icon: github
-        href: https://github.com/sprangandfriends
+        href: https://github.com/Muedi
+      - icon: linkedin
+        href: https://www.linkedin.com/in/maximilian-sprang-152227239/
       - icon: envelope
         href: mailto:masprang@uni-mainz.de
   page-footer:
     background: dark
-    center: "© 2026 Sprang and Friends · Built with [Quarto](https://quarto.org)"
+    center: "© 2026 Sprang Lab · BioAI Group · Built with [Quarto](https://quarto.org)"
 
 format:
   html:
     theme:
-      light: cosmo
+      light: [cosmo, theme.scss]
     css: styles.css
     toc: true
+    html-math-method: plain   # no math on the site; avoids loading MathJax from a CDN
 
 bibliography: references.bib

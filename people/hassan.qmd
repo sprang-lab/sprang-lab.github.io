@@ -1,0 +1,32 @@
+---
+title: "Hassan Ahmed Hassan"
+subtitle: "Part-time PhD Student · Senior Data Scientist, Hippo Digital (UK)"
+toc: false
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](../images/profiles/hassan-ahmed-hassan.jpg){.profile-portrait fig-alt="Hassan Ahmed Hassan"}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+## About
+
+Hassan is a part-time PhD student in the Sprang Lab, working on large-scale models trained on DNA and RNA that can serve as general-purpose tools for biology. He and Max met in 2024 through the OpenBioML open-science community and have worked together on DNA language models ever since, more recently extending that work to the biosecurity of AI. The aim of his project is models that advance fundamental research into genome function while also powering applied work such as early cancer detection and zoonotic disease surveillance. Safety runs through the core of the project, with a focus on making models that are reliable, interpretable, and resistant to misuse. Alongside his PhD, Hassan works full-time as a Senior Data Scientist at Hippo Digital in the UK, with clients in the healthcare sector.
+
+::: {.joint-papers}
+**Papers with the lab**
+
+- **HA Hassan**\*, A Anžel\*, B İlgen, M Luchner, P Schramowski, A Blasse, JU Mayer, K Ladewig, G Hattab†, **M Sprang**†. **A safety-centric perspective on innovation and risk in the use of artificial intelligence in genomics.** *Trends in Genetics*, 2026. [DOI: 10.1016/j.tig.2026.04.001](https://doi.org/10.1016/j.tig.2026.04.001)
+- **M Sprang**, **HA Hassan**, Y Ektefaie, et al. **A defence-in-depth strategy for securing AI-driven biological sequence design.** *Nature Communications* (Perspective), accepted, 2026. [Preprint](https://doi.org/10.21203/rs.3.rs-9617635/v1)
+- **HA Hassan**, K Puhger, A Saadat, JU Mayer, **M Sprang**. **Life as a Function: Why Transformer Architectures Struggle to Gain Genome-Level Foundational Capabilities.** *bioRxiv*, 2025. [DOI: 10.1101/2025.01.13.632745](https://doi.org/10.1101/2025.01.13.632745)
+- **HA Hassan**, **G D'Amico**, **M Sprang**. **DVQ: A library for the visual and statistical representation of nucleotide sequences.** Work in progress · [github.com/dna-llm/dvq](https://github.com/dna-llm/dvq)
+:::
+
+:::
+
+:::
+
+[&larr; Back to People](index.qmd)

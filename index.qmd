@@ -1,14 +1,16 @@
 ---
-title: "Sprang and Friends"
+pagetitle: "Sprang Lab"
 page-layout: custom
 toc: false
 ---
 
 ::: {.hero-banner}
 
-# Sprang and Friends
+# Sprang Lab
 
-Research, code, and ideas in computational biology — from data quality, generative AI for biosequences to biosecurity and beyond.
+[BioAI Group · UMC & IQCB, Johannes Gutenberg University Mainz]{.hero-tagline}
+
+Machine learning for biology — from data quality and generative AI for biosequences to biosecurity and beyond.
 
 :::
 
@@ -29,7 +31,7 @@ Research, code, and ideas in computational biology — from data quality, genera
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/slideshow/01-max.JPG" class="d-block" alt="Dr. Maximilian Sprang at the Einstein Foundation Award ceremony">
+      <img src="images/slideshow/01-max.JPG" class="d-block" alt="Maximilian Sprang at the Einstein Foundation Award ceremony">
       <div class="carousel-caption">
         <h5>Einstein Foundation ECR Award 2025</h5>
         <p>Dr. Maximilian Sprang</p>
@@ -59,10 +61,10 @@ Research, code, and ideas in computational biology — from data quality, genera
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/slideshow/05-Max-Mert.jpg" class="d-block" alt="Maximilian Sprang and Mert Cihan">
+      <img src="images/slideshow/05-Max-Mert.jpg" class="d-block" alt="Mert Cihan and Maximilian Sprang at the AG Andrade BBQ">
       <div class="carousel-caption">
-        <h5>Max &amp; Mert</h5>
-        <p>A Friend and Collaborator in computational genomics</p>
+        <h5>Mert &amp; Max</h5>
+        <p>BBQ of AG Andrade :)</p>
       </div>
     </div>
     <div class="carousel-item">
@@ -73,10 +75,10 @@ Research, code, and ideas in computational biology — from data quality, genera
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/slideshow/07-Max-David.jpg" class="d-block" alt="Maximilian Sprang and David Selby">
+      <img src="images/slideshow/07-Max-David.jpg" class="d-block" alt="David Selby and Maximilian Sprang enjoying a pint">
       <div class="carousel-caption">
-        <h5>Max &amp; David</h5>
-        <p>A friend and former colleague at DFKI, David</p>
+        <h5>David &amp; Max</h5>
+        <p>Enjoying a pint!</p>
       </div>
     </div>
     <div class="carousel-item">
@@ -87,10 +89,10 @@ Research, code, and ideas in computational biology — from data quality, genera
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/slideshow/09-Max-Hassan.jpg" class="d-block" alt="Maximilian Sprang and Hassan Ahmed Hassan">
+      <img src="images/slideshow/09-Max-Hassan.jpg" class="d-block" alt="Hassan Ahmed Hassan and Maximilian Sprang at the NHR Conference 2025 in Göttingen">
       <div class="carousel-caption">
-        <h5>Max &amp; Hassan</h5>
-        <p>A friend and collaborator from the UK</p>
+        <h5>Hassan &amp; Max</h5>
+        <p>NHR Conference 2025, Göttingen</p>
       </div>
     </div>
     <div class="carousel-item">
@@ -101,7 +103,7 @@ Research, code, and ideas in computational biology — from data quality, genera
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/slideshow/11-PhD-Defense-with-miguel.jpg" class="d-block" alt="Maximilian Sprang and Miguel Andrade-Navarro at PhD defense">
+      <img src="images/slideshow/11-PhD-Defense-with-miguel.jpg" class="d-block" alt="Miguel Andrade-Navarro and Maximilian Sprang at the PhD defense">
       <div class="carousel-caption">
         <h5>PhD Defense 2024</h5>
         <p>With my Doktervater Miguel</p>
@@ -119,18 +121,18 @@ Research, code, and ideas in computational biology — from data quality, genera
 </div>
 ```
 
-::: {.grid style="margin-top: 2rem;"}
+::: {.grid style="margin-top: 2rem; margin-bottom: 2rem;"}
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4}
 ::: {.card-section}
 ### People
-Meet the team and our collaborators across Europe and beyond.
+Meet the lab members, our external students, and alumni.
 
 [Meet the team &rarr;](people/index.qmd)
 :::
 :::
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4}
 ::: {.card-section .accent-violet}
 ### Research
 Publications, active projects, and open science.
@@ -139,25 +141,12 @@ Publications, active projects, and open science.
 :::
 :::
 
-::: {.g-col-4}
+::: {.g-col-12 .g-col-md-4}
 ::: {.card-section}
 ### Blog
-Multi-author posts on methods, results, and ideas.
+Posts from lab members on our papers, theses, methods, and ideas.
 
 [Read the blog &rarr;](blog/index.qmd)
-:::
-:::
-
-:::
-
-::: {.grid style="margin-top: 1rem; margin-bottom: 2rem;"}
-
-::: {.g-col-12}
-::: {.card-section .accent-violet}
-### Resources
-Datasets, tools, and software we build and share with the community.
-
-[Browse resources &rarr;](resources/datasets.qmd)
 :::
 :::
 

@@ -6,7 +6,7 @@ toc: true
 
 ## About
 
-I am a computational biologist and Lead Bioinformatician at the University Medical Center of Johannes Gutenberg University Mainz, Germany. My research focuses on machine learning for genomics, with particular interests in DNA language models, data quality in multi-omics, and the biosecurity implications of generative AI in the life sciences. I am a father of two.
+I am a computational biologist and, since August 2026, Junior Group Leader at the Department of Dermatology and the Institute for Quantitative and Computational Biosciences (IQCB) of Johannes Gutenberg University Mainz, Germany, where I head the Sprang Lab (BioAI group). I am also Junior Faculty at the Max Planck Graduate Center (MPGC) Mainz. My research focuses on machine learning for genomics, with particular interests in DNA language models, data quality in multi-omics, and the biosecurity implications of generative AI in the life sciences. I am a father of two.
 
 I maintain active international collaborations, including work with [DeoxyTech Ltd.](https://deoxytech.com/) (Manchester, UK) on DNA embedding models, involvement in the [OpenBioML](https://www.openbioml.org/) open science community, and partnerships with researchers across Europe on biosecurity and AI safety in biology.
 
@@ -23,7 +23,8 @@ I maintain active international collaborations, including work with [DeoxyTech L
 
 | Period | Position | Institution |
 |--------|----------|-------------|
-| Since 03/2025 | **Lead Bioinformatician** | University Medical Center, JGU Mainz |
+| Since 08/2026 | **Junior Group Leader**, Sprang Lab (BioAI group) | Department of Dermatology & IQCB, JGU Mainz |
+| 03/2025 – 07/2026 | Lead Bioinformatician | University Medical Center, JGU Mainz |
 | 06/2024 – 12/2024 | Senior Researcher | German Research Center for Artificial Intelligence (DFKI), Kaiserslautern |
 | Since 01/2023 | Volunteer & Project Lead | OpenBioML |
 | 07/2020 – 07/2024 | PhD Student / PostDoc in Bioinformatics | Johannes Gutenberg University Mainz |
@@ -43,7 +44,7 @@ Over **€200,000** in attracted funding as PI or Co-PI, plus substantial comput
 
 | Period | Title | Funder |
 |--------|-------|--------|
-| 2026 | Erring Rigorously — On quantifying the impact of errors in the wet lab on downstream analysis | Einstein Foundation |
+| 2026–2027 | Erring Rigorously — On quantifying the impact of errors in the wet lab on downstream analysis | Einstein Foundation |
 | 2025–2026 | Generative AI for Biological Sequence Design — Opportunities, Challenges and Responsible Innovation (Sandpit) | Wübben Stiftung Wissenschaft |
 | 2025 | Seed Funding for Consortium to Benchmark Security and Dual-Use Risks of AI Models in Biology | Rhine-Main Universities |
 | 2026 | Guided Diffusion Models for Targeted Phage Genome Generation | Carl-Zeiss-Foundation |
@@ -54,7 +55,7 @@ Over **€200,000** in attracted funding as PI or Co-PI, plus substantial comput
 
 ## Academic Distinctions
 
-- **Einstein Early Career Researcher Award 2026** — project "Erring Rigorously"
+- **Einstein Early Career Researcher Award 2025** — project "Erring Rigorously"
 - **Boehringer Ingelheim Foundation Dissertation Award 2025**
 - **Doctorate *summa cum laude*** (2024)
 - **Medizinsonderpreis**, Rhineland-Palatinate Idea Competition (2022) — "Draw\@Home" automated blood sampling concept
@@ -72,4 +73,7 @@ See the full list on the [publications page](../research/publications.qmd).
 ## Contact
 
 - **ORCID:** [0000-0002-8438-4747](https://orcid.org/0000-0002-8438-4747)
-- **Institution:** University Medical Center, Johannes Gutenberg University Mainz, Germany
+- **Email:** [masprang@uni-mainz.de](mailto:masprang@uni-mainz.de)
+- **LinkedIn:** [maximilian-sprang](https://www.linkedin.com/in/maximilian-sprang-152227239/)
+- **Institution:** Sprang Lab (BioAI group), Department of Dermatology & Institute for Quantitative and Computational Biosciences (IQCB), Johannes Gutenberg University Mainz, Germany
+- **Also:** Junior Faculty, Max Planck Graduate Center (MPGC) Mainz

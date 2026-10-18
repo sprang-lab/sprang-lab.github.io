@@ -11,84 +11,100 @@ ORCID: [0000-0002-8438-4747](https://orcid.org/0000-0002-8438-4747)
 
 ## First & Corresponding Author
 
-1. HA Hassan\*, A Anžel\*, B İlgen, M Luchner, P Schramowski, A Blasse, JU Mayer, K Ladewig, G Hattab†, **M Sprang**†. **A safety-centric perspective on innovation and risk in the use of artificial intelligence in genomics.** *Trends in Genetics*, in press, 2026. \
-   [CORRESPONDING AUTHOR]{.badge-role}
+1. **M Sprang**, HA Hassan, Y Ektefaie, A Schmieder, A Wasilenko, M Hanke, R Martín-Peña, R Harkness, J Götting, A Murphy, JU Mayer, M Schäfer, A Friedrich, K Lenhof, S Rudorf, G Gronvall, J Kellmann, S Anders, B Aysan, N Saverschek, K Schuldt, M Güell, K Ladewig, G Hattab. **A defence-in-depth strategy for securing AI-driven biological sequence design.** *Nature Communications* (Perspective), accepted, 2026. \
+   Preprint: [DOI: 10.21203/rs.3.rs-9617635/v1](https://doi.org/10.21203/rs.3.rs-9617635/v1) · [FIRST & CORRESPONDING AUTHOR]{.badge-role}
 
-2. M Cihan, UA Anyaegbunam, S Albrecht, MA Andrade-Navarro, **M Sprang**. **Evaluating Genetic Regulators of MicroRNAs Using Machine Learning Models.** *Int. J. Mol. Sci.* 26(12), 5757, 2025. \
+2. HA Hassan\*, A Anžel\*, B İlgen, M Luchner, P Schramowski, A Blasse, JU Mayer, K Ladewig, G Hattab†, **M Sprang**†. **A safety-centric perspective on innovation and risk in the use of artificial intelligence in genomics.** *Trends in Genetics* 42(9), 820–831, 2026. \
+   [DOI: 10.1016/j.tig.2026.04.001](https://doi.org/10.1016/j.tig.2026.04.001) · [CORRESPONDING AUTHOR]{.badge-role}
+
+3. R Jakhmola, DA Selby, M Cihan, D Prascevic, E Petracci, P Ulivi, E Felip, R Caro-Consuegra, F Stella, P Solli, D Argnani, M Urbini, JU Mayer, SJ Vollmer, C Martin, J Ewald, **M Sprang**. **MiracleNet: A Biologically Interpretable Machine Learning Model for Resected Non-small-cell Lung Cancer.** *Comput. Struct. Biotechnol. J.* 35(1), 0145, 2026. \
+   [DOI: 10.34133/csbj.0145](https://doi.org/10.34133/csbj.0145) · [CORRESPONDING AUTHOR]{.badge-role}
+
+4. UA Anyaegbunam, D Teschner, T Schmidlin, A Hildebrandt, JU Mayer, **M Sprang**†, MA Andrade-Navarro†. **Cross-domain transfer learning from peptides to metabolites using a multi-property fine-tuned LLM.** *Bioinformatics* 42(7), btag493, 2026. \
+   [DOI: 10.1093/bioinformatics/btag493](https://doi.org/10.1093/bioinformatics/btag493) · [CO-CORRESPONDING]{.badge-role}
+
+5. M Cihan, UA Anyaegbunam, S Albrecht, MA Andrade-Navarro, **M Sprang**. **Evaluating Genetic Regulators of MicroRNAs Using Machine Learning Models.** *Int. J. Mol. Sci.* 26(12), 5757, 2025. \
    [DOI: 10.3390/ijms26125757](https://doi.org/10.3390/ijms26125757) · [CORRESPONDING AUTHOR]{.badge-role}
 
-3. DA Selby\*, R Jakhmola\*, **M Sprang**\*, G Grossmann, H Raki, N Maani, D Pavliuk, J Ewald, S Vollmer. **Visible neural networks for multi-omics integration: a critical review.** *Frontiers in Artificial Intelligence* 8, 2025. \
+6. DA Selby\*, R Jakhmola\*, **M Sprang**\*, G Grossmann, H Raki, N Maani, D Pavliuk, J Ewald, S Vollmer. **Visible neural networks for multi-omics integration: a critical review.** *Frontiers in Artificial Intelligence* 8, 2025. \
    [DOI: 10.3389/frai.2025.1595291](https://doi.org/10.3389/frai.2025.1595291) · [CO-FIRST AUTHOR]{.badge-role}
 
-4. A Gabele\*, **M Sprang**\*, M Cihan, M Welzel, A Nurbekova, K Romaniuk, S Dietzen, M Klein, G Bündgen, M Emelianov, G Harms, K Rajalingam, T Ziesmann, K Pape, B Wasser, D Gomez-Zepeda, K Braband, M Delacher, N Lemmermann, S Bittner, MA Andrade-Navarro, S Tenzer, K Luck, T Bopp, U Distler. **Unveiling IRF4-steered regulation of context-dependent effector programs in Th17 and Treg cells.** *Cell Reports* 44(3), 2025. \
+7. A Gabele\*, **M Sprang**\*, M Cihan, M Welzel, A Nurbekova, K Romaniuk, S Dietzen, M Klein, G Bündgen, M Emelianov, G Harms, K Rajalingam, T Ziesmann, K Pape, B Wasser, D Gomez-Zepeda, K Braband, M Delacher, N Lemmermann, S Bittner, MA Andrade-Navarro, S Tenzer, K Luck, T Bopp, U Distler. **Unveiling IRF4-steered regulation of context-dependent effector programs in Th17 and Treg cells.** *Cell Reports* 44(3), 2025. \
    [DOI: 10.1016/j.celrep.2025.115407](https://doi.org/10.1016/j.celrep.2025.115407) · [CO-FIRST AUTHOR]{.badge-role}
 
-5. **M Sprang**, J Möllmann, MA Andrade-Navarro, JF Fontaine. **Overlooked poor-quality patient samples in sequencing data impair reproducibility of published clinically relevant datasets.** *Genome Biology* 25(1), 222, 2024. \
+8. **M Sprang**, J Möllmann, MA Andrade-Navarro, JF Fontaine. **Overlooked poor-quality patient samples in sequencing data impair reproducibility of published clinically relevant datasets.** *Genome Biology* 25(1), 222, 2024. \
    [DOI: 10.1186/s13059-024-03331-6](https://doi.org/10.1186/s13059-024-03331-6) · [FIRST AUTHOR]{.badge-role}
 
-6. **M Sprang**, MA Andrade-Navarro, JF Fontaine. **Batch effect detection and correction in RNA-seq data using machine-learning-based automated assessment of quality.** *BMC Bioinformatics* 23(Suppl 6), 279, 2022. \
+9. **M Sprang**, MA Andrade-Navarro, JF Fontaine. **Batch effect detection and correction in RNA-seq data using machine-learning-based automated assessment of quality.** *BMC Bioinformatics* 23(Suppl 6), 279, 2022. \
    [DOI: 10.1186/s12859-022-04775-y](https://doi.org/10.1186/s12859-022-04775-y) · [FIRST & CORRESPONDING AUTHOR]{.badge-role}
 
-7. **M Sprang**, M Krüger, MA Andrade-Navarro, JF Fontaine. **Statistical guidelines for quality control of next-generation sequencing techniques.** *Life Science Alliance* 4(11), 2021. \
-   [DOI: 10.26508/lsa.202101113](https://doi.org/10.26508/lsa.202101113) · [FIRST AUTHOR]{.badge-role}
+10. **M Sprang**, M Krüger, MA Andrade-Navarro, JF Fontaine. **Statistical guidelines for quality control of next-generation sequencing techniques.** *Life Science Alliance* 4(11), 2021. \
+    [DOI: 10.26508/lsa.202101113](https://doi.org/10.26508/lsa.202101113) · [FIRST AUTHOR]{.badge-role}
 
-8. **M Sprang**, C Paret, J Faber. **CpG-islands as markers for liquid biopsies of cancer patients.** *Cells* 9(8), 1820, 2020. \
-   [DOI: 10.3390/cells9081820](https://doi.org/10.3390/cells9081820) · [FIRST & CORRESPONDING AUTHOR]{.badge-role}
+11. **M Sprang**, C Paret, J Faber. **CpG-islands as markers for liquid biopsies of cancer patients.** *Cells* 9(8), 1820, 2020. \
+    [DOI: 10.3390/cells9081820](https://doi.org/10.3390/cells9081820) · [FIRST & CORRESPONDING AUTHOR]{.badge-role}
 
 ## Co-Author
 
-9. D Ai, L Kreyling, MA Battistone, ML Elizagaray, A Chen, S Bhushan, M Fijak, M Speckmann, G Michel, T Procida-Kowalski, M Bartkuhn, **M Sprang**, JU Mayer, A Meinhardt, C Pleuger. **Depletion of CX3CR1⁺ macrophages results in disrupted functionality and immune surveillance within epididymis and testis.** *Mucosal Immunology*, 2026. \
-   [DOI: 10.1016/j.mucimm.2026.01.011](https://doi.org/10.1016/j.mucimm.2026.01.011)
+12. Y Ke, K George, K Pandya, G Großmann, DB Blumenthal, **M Sprang**, DA Selby, S Vollmer. **BioDisco: Multi-Agent Hypothesis Generation with Dual-Mode Evidence, Iterative Feedback and Temporal Evaluation.** *Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-26)*, 6761–6769, 2026. \
+    [DOI: 10.24963/ijcai.2026/752](https://doi.org/10.24963/ijcai.2026/752)
 
-10. A Gabele, M Cihan, **M Sprang**, M Klein, A Nurbekova, K Romaniuk, N Lemmermann, S Tenzer, MA Andrade-Navarro, T Bopp, U Distler. **Protocol for mapping murine transcription factor interactomes and composite motifs combining affinity purification mass spectrometry and ChIP-seq.** *STAR Protocols* 6(4), 2025. \
+13. M Cihan, P More, **M Sprang**, F Marini, MA Andrade-Navarro. **Target-site Dynamics Explain a Large Share of Apparent MicroRNA Differential Expression.** *RNA*, 2026. \
+    [DOI: 10.1261/rna.080990.126](https://doi.org/10.1261/rna.080990.126)
+
+14. D Ai, L Kreyling, MA Battistone, ML Elizagaray, A Chen, S Bhushan, M Fijak, M Speckmann, G Michel, T Procida-Kowalski, M Bartkuhn, **M Sprang**, JU Mayer, A Meinhardt, C Pleuger. **Depletion of CX3CR1⁺ macrophages results in disrupted functionality and immune surveillance within epididymis and testis.** *Mucosal Immunology*, 2026. \
+    [DOI: 10.1016/j.mucimm.2026.01.011](https://doi.org/10.1016/j.mucimm.2026.01.011)
+
+15. A Gabele, M Cihan, **M Sprang**, M Klein, A Nurbekova, K Romaniuk, N Lemmermann, S Tenzer, MA Andrade-Navarro, T Bopp, U Distler. **Protocol for mapping murine transcription factor interactomes and composite motifs combining affinity purification mass spectrometry and ChIP-seq.** *STAR Protocols* 6(4), 2025. \
     [DOI: 10.1016/j.xpro.2025.104184](https://doi.org/10.1016/j.xpro.2025.104184)
 
-11. DA Selby, **M Sprang**, J Ewald, SJ Vollmer. **Beyond the black box with biologically informed neural networks.** *Nature Reviews Genetics*, 2025. \
+16. DA Selby, **M Sprang**, J Ewald, SJ Vollmer. **Beyond the black box with biologically informed neural networks.** *Nature Reviews Genetics*, 2025. \
     [DOI: 10.1038/s41576-025-00826-1](https://doi.org/10.1038/s41576-025-00826-1)
 
-12. M Cihan, G Schmauck, **M Sprang**, MA Andrade-Navarro. **Unveiling cell-type-specific microRNA networks through alternative polyadenylation in glioblastoma.** *BMC Biology* 23(1), 15, 2025. \
+17. M Cihan, G Schmauck, **M Sprang**, MA Andrade-Navarro. **Unveiling cell-type-specific microRNA networks through alternative polyadenylation in glioblastoma.** *BMC Biology* 23(1), 15, 2025. \
     [DOI: 10.1186/s12915-024-02104-8](https://doi.org/10.1186/s12915-024-02104-8)
 
-13. M Altinbay, J Wang, J Chen, D Schäfer, **M Sprang**, B Blagojevic, S Wölfl, MA Andrade-Navarro, I Dikic, S Knapp, X Cheng. **Chem-CRISPR/dCas9FCPF: a platform for chemically induced epigenome editing.** *Nucleic Acids Research* 52(19), 11587–11601, 2024. \
+18. M Altinbay, J Wang, J Chen, D Schäfer, **M Sprang**, B Blagojevic, S Wölfl, MA Andrade-Navarro, I Dikic, S Knapp, X Cheng. **Chem-CRISPR/dCas9FCPF: a platform for chemically induced epigenome editing.** *Nucleic Acids Research* 52(19), 11587–11601, 2024. \
     [DOI: 10.1093/nar/gkae798](https://doi.org/10.1093/nar/gkae798)
 
-14. AI Luppi, J Achterberg, S Schmidgall, IP Bilgin, P Herholz, **M Sprang** et al. **Trainees' perspectives and recommendations for catalyzing the next generation of NeuroAI researchers.** *Nature Communications* 15(1), 9152, 2024. \
+19. AI Luppi, J Achterberg, S Schmidgall, IP Bilgin, P Herholz, **M Sprang** et al. **Trainees' perspectives and recommendations for catalyzing the next generation of NeuroAI researchers.** *Nature Communications* 15(1), 9152, 2024. \
     [DOI: 10.1038/s41467-024-53375-2](https://doi.org/10.1038/s41467-024-53375-2)
 
-15. A Rubio, **M Sprang**, A Garzón, A Moreno-Rodriguez, ME Pachón-Ibáñez, J Pachón, MA Andrade-Navarro, AJ Pérez-Pulido. **Analysis of bacterial pangenomes reduces CRISPR dark matter and reveals strong association between membranome and CRISPR-Cas systems.** *Science Advances* 9(12), eadd8911, 2023. \
+20. A Rubio, **M Sprang**, A Garzón, A Moreno-Rodriguez, ME Pachón-Ibáñez, J Pachón, MA Andrade-Navarro, AJ Pérez-Pulido. **Analysis of bacterial pangenomes reduces CRISPR dark matter and reveals strong association between membranome and CRISPR-Cas systems.** *Science Advances* 9(12), eadd8911, 2023. \
     [DOI: 10.1126/sciadv.add8911](https://doi.org/10.1126/sciadv.add8911)
 
-16. N Ziegler, M Cortés-López, F Alt, **M Sprang**, A Ustjanzew, N Lehmann, K El Malki, A Wingerter, A Russo, O Beck, S Attig, L Roth, J König, C Paret, J Faber. **Analysis of RBP expression and binding sites identifies PTBP1 as a regulator of CD19 expression in B-ALL.** *Oncoimmunology* 12(1), 2184143, 2023. \
+21. N Ziegler, M Cortés-López, F Alt, **M Sprang**, A Ustjanzew, N Lehmann, K El Malki, A Wingerter, A Russo, O Beck, S Attig, L Roth, J König, C Paret, J Faber. **Analysis of RBP expression and binding sites identifies PTBP1 as a regulator of CD19 expression in B-ALL.** *Oncoimmunology* 12(1), 2184143, 2023. \
     [DOI: 10.1080/2162402x.2023.2184143](https://doi.org/10.1080/2162402x.2023.2184143)
 
-17. S Albrecht, **M Sprang**, MA Andrade-Navarro, JF Fontaine. **seqQscorer: automated quality control of next-generation sequencing data using machine learning.** *Genome Biology* 22, 75, 2021. \
+22. S Albrecht, **M Sprang**, MA Andrade-Navarro, JF Fontaine. **seqQscorer: automated quality control of next-generation sequencing data using machine learning.** *Genome Biology* 22, 75, 2021. \
     [DOI: 10.1186/s13059-021-02294-2](https://doi.org/10.1186/s13059-021-02294-2)
 
-18. C Paret, N Lehmann, H Bender, **M Sprang**, CJ Sommer, D Cana, L Seidmann, A Wingerter, MA Neu, K El Malki, F Alt, L Roth, F Marini, M Ottenhausen, M Glaser, M Knuf, A Russo, J Faber. **Identification of an Immunogenic Medulloblastoma-Specific Fusion Involving EPC2 and GULP1.** *Cancers* 13(22), 5838, 2021. \
+23. C Paret, N Lehmann, H Bender, **M Sprang**, CJ Sommer, D Cana, L Seidmann, A Wingerter, MA Neu, K El Malki, F Alt, L Roth, F Marini, M Ottenhausen, M Glaser, M Knuf, A Russo, J Faber. **Identification of an Immunogenic Medulloblastoma-Specific Fusion Involving EPC2 and GULP1.** *Cancers* 13(22), 5838, 2021. \
     [DOI: 10.3390/cancers13225838](https://doi.org/10.3390/cancers13225838)
 
-19. O Beck, C Paret, A Russo, J Burhenne, M Fresnais, K Steimel, L Seidmann, D-C Wagner, N Vewinger, N Lehmann, **M Sprang**, N Backes, L Roth, MA Neu, A Wingerter, N Henninger, K El Malki, H Otto, F Alt, A Desuki, T Kindler, J Faber. **Safety and activity of the combination of ceritinib and dasatinib in osteosarcoma.** *Cancers* 12(4), 793, 2020. \
+24. O Beck, C Paret, A Russo, J Burhenne, M Fresnais, K Steimel, L Seidmann, D-C Wagner, N Vewinger, N Lehmann, **M Sprang**, N Backes, L Roth, MA Neu, A Wingerter, N Henninger, K El Malki, H Otto, F Alt, A Desuki, T Kindler, J Faber. **Safety and activity of the combination of ceritinib and dasatinib in osteosarcoma.** *Cancers* 12(4), 793, 2020. \
     [DOI: 10.3390/cancers12040793](https://doi.org/10.3390/cancers12040793)
 
 ## Preprints
 
-20. UA Anyaegbunam, D Teschner, T Schmidlin, A Hildebrandt, JU Mayer, **M Sprang**\*, MA Andrade-Navarro\*. **Cross-Domain Transfer Learning from Peptides to Lipids Using a Multi-Property Fine-Tuned LLM.** *bioRxiv*, 2026. \
-    [DOI: 10.64898/2026.01.06.697904](https://doi.org/10.64898/2026.01.06.697904) · [CO-CORRESPONDING]{.badge-role}
-
-21. HA Hassan, K Puhger, A Saadat, **M Sprang**. **Life as a Function: Why Transformer Architectures Struggle to Gain Genome-Level Foundational Capabilities.** *bioRxiv*, 2025. \
+25. HA Hassan, K Puhger, A Saadat, JU Mayer, **M Sprang**. **Life as a Function: Why Transformer Architectures Struggle to Gain Genome-Level Foundational Capabilities.** *bioRxiv*, 2025. \
     [DOI: 10.1101/2025.01.13.632745](https://doi.org/10.1101/2025.01.13.632745) · [CORRESPONDING AUTHOR]{.badge-role}
 
-22. S Albrecht, C Krämer, P Röchner, JU Mayer, F Rothlauf, MA Andrade-Navarro, **M Sprang**. **Integrating the ENCODE blocklist for machine learning quality control of ChIP-seq data with seqQscorer.** *bioRxiv*, 2025. \
+26. S Albrecht, C Krämer, P Röchner, JU Mayer, F Rothlauf, MA Andrade-Navarro, **M Sprang**. **Integrating the ENCODE blocklist for machine learning quality control of ChIP-seq data with seqQscorer.** *bioRxiv*, 2025. \
     [DOI: 10.1101/2025.05.12.653555](https://doi.org/10.1101/2025.05.12.653555)
 
-23. Y Ke, K George, K Pandya, D Blumenthal, **M Sprang**, G Großmann, S Vollmer, DA Selby. **BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation.** *arXiv:2508.01285*, 2025. \
-    [DOI: 10.48550/arXiv.2508.01285](https://doi.org/10.48550/arXiv.2508.01285)
+27. D Gharaie Amirabadi, C Jackson, DS Kim, **M Sprang**, K Amani. **Prot2Prop: Structure-informed multitask protein property prediction.** *bioRxiv*, 2026. \
+    [DOI: 10.64898/2026.06.28.735009](https://doi.org/10.64898/2026.06.28.735009)
 
-24. J Mutha, M Konga, **M Sprang**, JU Mayer, SM Schlenner. **The quest continues: Human CD4⁺ CD16⁺ CD56⁺ 'exTreg' resemble NKT cells instead.** *bioRxiv*, 2025. \
+28. J Mutha, M Konga, **M Sprang**, JU Mayer, SM Schlenner. **The quest continues: Human CD4⁺ CD16⁺ CD56⁺ 'exTreg' resemble NKT cells instead.** *bioRxiv*, 2025. \
     [DOI: 10.1101/2025.08.05.667656](https://doi.org/10.1101/2025.08.05.667656)
+
+29. T Bopp, N Truong-Andrevici, JF Fontaine, M Klein, S Rapp, A Wilson, S Kunz, **M Sprang**, L Mueller, M Schmitz, P Wild, S Wolf, T Kindler, M Gaida, B Cipriani, S Grabbe, MA Andrade-Navarro, H Schild, S Hughes, T Bohn. **Solid tumors exploit proton-sensing GPR65 for orchestration of an immunosuppressive tumor microenvironment.** *Research Square*, 2023. \
+    [DOI: 10.21203/rs.3.rs-3057487/v1](https://doi.org/10.21203/rs.3.rs-3057487/v1)
 
 ## Software & Data
 
-25. HA Hassan, **M Sprang**. **DVQ — A Python library to quickly compare DNA sequences.** [github.com/hssn-20/dvq](https://github.com/hssn-20/dvq), 2024.
+30. HA Hassan, G D'Amico, **M Sprang**. **DVQ: A library for the visual and statistical representation of nucleotide sequences.** Work in progress. \
+    [github.com/dna-llm/dvq](https://github.com/dna-llm/dvq)
 
-26. **M Sprang**, HA Hassan et al. **DNA-LLM Group at Hugging Face** — Interactive dashboards for viral sequences and preprocessed open DNA sequence datasets. [huggingface.co/DNA-LLM](https://huggingface.co/DNA-LLM).
+31. **M Sprang**, HA Hassan et al. **DNA-LLM Group at Hugging Face** — Interactive dashboards for viral sequences and preprocessed open DNA sequence datasets. [huggingface.co/DNA-LLM](https://huggingface.co/DNA-LLM).

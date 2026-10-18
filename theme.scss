@@ -1,0 +1,6 @@
+/*-- scss:defaults --*/
+
+// Don't load the Cosmo theme's web font from Google's servers (GDPR);
+// use the fonts already installed on the visitor's device instead.
+$web-font-path: false;
+$font-family-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif;
