@@ -1,0 +1,43 @@
+---
+title: "Impressum"
+toc: false
+---
+
+## Provider
+
+Dr. Maximilian Sprang\
+Sprang Lab (BioAI group), Department of Dermatology\
+University Medical Center of Johannes Gutenberg University Mainz\
+Langenbeckstraße 1\
+55131 Mainz, Germany
+
+Phone: +49 (0) 6131 17-7858\
+Email: [masprang@uni-mainz.de](mailto:masprang@uni-mainz.de)
+
+Responsible for the content pursuant to § 18 (2) MStV: Dr. Maximilian Sprang, address as above.
+
+## Liability for content
+
+The content of this website was created with care. However, we cannot guarantee that it is complete,
+correct, or up to date.
+
+## Liability for links
+
+This website contains links to external websites. We have no influence on their content and therefore
+cannot accept any liability for it. The respective provider or operator of a linked page is always
+responsible for its content. If we become aware of any legal violations, we will remove such links
+immediately.
+
+## Copyright
+
+Texts and images on this website are protected by copyright and may not be reused without permission.
+Einstein Foundation Award photos: Sebastian Gabsch / Einstein Stiftung Berlin.
+
+## Data protection
+
+This website is hosted on GitHub Pages (GitHub, Inc., USA), which processes visitors' IP addresses in
+server logs in order to deliver the website (Art. 6 (1) (f) GDPR). The website sets no cookies and uses
+no analytics or tracking. If you contact us by email, we use your message only to reply to you.
+Photos and short biographies of lab members are published with their consent and removed on request.
+For questions about your data or your rights under the GDPR, please contact us at the email address
+above.

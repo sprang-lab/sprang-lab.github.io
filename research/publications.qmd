@@ -87,24 +87,27 @@ ORCID: [0000-0002-8438-4747](https://orcid.org/0000-0002-8438-4747)
 
 ## Preprints
 
-25. HA Hassan, K Puhger, A Saadat, JU Mayer, **M Sprang**. **Life as a Function: Why Transformer Architectures Struggle to Gain Genome-Level Foundational Capabilities.** *bioRxiv*, 2025. \
+25. P Röchner, C Krämer, JU Mayer, F Rothlauf, S Albrecht, **M Sprang**. **An imbalanced dataset with multiple feature representations for studying quality control of next-generation sequencing.** *arXiv:2604.04981*, 2026. \
+    [DOI: 10.48550/arXiv.2604.04981](https://doi.org/10.48550/arXiv.2604.04981)
+
+26. HA Hassan, K Puhger, A Saadat, JU Mayer, **M Sprang**. **Life as a Function: Why Transformer Architectures Struggle to Gain Genome-Level Foundational Capabilities.** *bioRxiv*, 2025. \
     [DOI: 10.1101/2025.01.13.632745](https://doi.org/10.1101/2025.01.13.632745) · [CORRESPONDING AUTHOR]{.badge-role}
 
-26. S Albrecht, C Krämer, P Röchner, JU Mayer, F Rothlauf, MA Andrade-Navarro, **M Sprang**. **Integrating the ENCODE blocklist for machine learning quality control of ChIP-seq data with seqQscorer.** *bioRxiv*, 2025. \
+27. S Albrecht, C Krämer, P Röchner, JU Mayer, F Rothlauf, MA Andrade-Navarro, **M Sprang**. **Integrating the ENCODE blocklist for machine learning quality control of ChIP-seq data with seqQscorer.** *bioRxiv*, 2025. \
     [DOI: 10.1101/2025.05.12.653555](https://doi.org/10.1101/2025.05.12.653555)
 
-27. D Gharaie Amirabadi, C Jackson, DS Kim, **M Sprang**, K Amani. **Prot2Prop: Structure-informed multitask protein property prediction.** *bioRxiv*, 2026. \
+28. D Gharaie Amirabadi, C Jackson, DS Kim, **M Sprang**, K Amani. **Prot2Prop: Structure-informed multitask protein property prediction.** *bioRxiv*, 2026. \
     [DOI: 10.64898/2026.06.28.735009](https://doi.org/10.64898/2026.06.28.735009)
 
-28. J Mutha, M Konga, **M Sprang**, JU Mayer, SM Schlenner. **The quest continues: Human CD4⁺ CD16⁺ CD56⁺ 'exTreg' resemble NKT cells instead.** *bioRxiv*, 2025. \
+29. J Mutha, M Konga, **M Sprang**, JU Mayer, SM Schlenner. **The quest continues: Human CD4⁺ CD16⁺ CD56⁺ 'exTreg' resemble NKT cells instead.** *bioRxiv*, 2025. \
     [DOI: 10.1101/2025.08.05.667656](https://doi.org/10.1101/2025.08.05.667656)
 
-29. T Bopp, N Truong-Andrevici, JF Fontaine, M Klein, S Rapp, A Wilson, S Kunz, **M Sprang**, L Mueller, M Schmitz, P Wild, S Wolf, T Kindler, M Gaida, B Cipriani, S Grabbe, MA Andrade-Navarro, H Schild, S Hughes, T Bohn. **Solid tumors exploit proton-sensing GPR65 for orchestration of an immunosuppressive tumor microenvironment.** *Research Square*, 2023. \
+30. T Bopp, N Truong-Andrevici, JF Fontaine, M Klein, S Rapp, A Wilson, S Kunz, **M Sprang**, L Mueller, M Schmitz, P Wild, S Wolf, T Kindler, M Gaida, B Cipriani, S Grabbe, MA Andrade-Navarro, H Schild, S Hughes, T Bohn. **Solid tumors exploit proton-sensing GPR65 for orchestration of an immunosuppressive tumor microenvironment.** *Research Square*, 2023. \
     [DOI: 10.21203/rs.3.rs-3057487/v1](https://doi.org/10.21203/rs.3.rs-3057487/v1)
 
 ## Software & Data
 
-30. HA Hassan, G D'Amico, **M Sprang**. **DVQ: A library for the visual and statistical representation of nucleotide sequences.** Work in progress. \
+31. HA Hassan, G D'Amico, **M Sprang**. **DVQ: A library for the visual and statistical representation of nucleotide sequences.** Work in progress. \
     [github.com/dna-llm/dvq](https://github.com/dna-llm/dvq)
 
-31. **M Sprang**, HA Hassan et al. **DNA-LLM Group at Hugging Face** — Interactive dashboards for viral sequences and preprocessed open DNA sequence datasets. [huggingface.co/DNA-LLM](https://huggingface.co/DNA-LLM).
+32. **M Sprang**, HA Hassan et al. **DNA-LLM Group at Hugging Face** — Interactive dashboards for viral sequences and preprocessed open DNA sequence datasets. [huggingface.co/DNA-LLM](https://huggingface.co/DNA-LLM).

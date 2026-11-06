@@ -6,9 +6,9 @@ toc: true
 
 ## About
 
-I am a computational biologist and, since August 2026, Junior Group Leader at the Department of Dermatology and the Institute for Quantitative and Computational Biosciences (IQCB) of Johannes Gutenberg University Mainz, Germany, where I head the Sprang Lab (BioAI group). I am also Junior Faculty at the Max Planck Graduate Center (MPGC) Mainz. My research focuses on machine learning for genomics, with particular interests in DNA language models, data quality in multi-omics, and the biosecurity implications of generative AI in the life sciences. I am a father of two.
+I am a computational biologist and, since August 2026, Independent Junior Group Leader for Bioinformatics and Genomics at the Department of Dermatology of the University Medical Center and the Institute for Quantitative and Computational Biosciences (IQCB) of Johannes Gutenberg University Mainz, Germany, where I head the Sprang Lab (BioAI group). From 2027, I will take up a position as IQCB Scientist, the first appointment of this kind at the new institute. I am also Junior Faculty at the Max Planck Graduate Center (MPGC) Mainz and a PI in the [Center for Synthetic Genomics Heidelberg–Karlsruhe–Mainz](https://www.syn-gen.de/members) (Center SynGen). My research focuses on machine learning for genomics, with particular interests in DNA language models, data quality in multi-omics, and the biosecurity implications of generative AI in the life sciences. I am a father of two.
 
-I maintain active international collaborations, including work with [DeoxyTech Ltd.](https://deoxytech.com/) (Manchester, UK) on DNA embedding models, involvement in the [OpenBioML](https://www.openbioml.org/) open science community, and partnerships with researchers across Europe on biosecurity and AI safety in biology.
+I maintain active international collaborations, including work with [DeoxyTech Ltd.](https://deoxytech.com/) (Manchester, UK) on DNA embedding models, involvement in the [OpenBioML](https://www.openbioml.org/) open science community, and partnerships with researchers in Edinburgh, Barcelona and Zürich and across Europe on biosecurity and AI safety in biology.
 
 ## Education
 
@@ -23,48 +23,52 @@ I maintain active international collaborations, including work with [DeoxyTech L
 
 | Period | Position | Institution |
 |--------|----------|-------------|
-| Since 08/2026 | **Junior Group Leader**, Sprang Lab (BioAI group) | Department of Dermatology & IQCB, JGU Mainz |
-| 03/2025 – 07/2026 | Lead Bioinformatician | University Medical Center, JGU Mainz |
+| From 2027 | **IQCB Scientist** | Institute for Quantitative and Computational Biosciences (IQCB), Mainz |
+| Since 08/2026 | **Independent Junior Group Leader**, Bioinformatics and Genomics (Sprang Lab) | Department of Dermatology, University Medical Center & IQCB, JGU Mainz |
+| 03/2025 – 07/2026 | Lead Bioinformatician / Junior Group Lead (Mayer Lab), funded by the ReALity Initiative of Rhineland-Palatinate | University Medical Center, JGU Mainz |
 | 06/2024 – 12/2024 | Senior Researcher | German Research Center for Artificial Intelligence (DFKI), Kaiserslautern |
-| Since 01/2023 | Volunteer & Project Lead | OpenBioML |
-| 07/2020 – 07/2024 | PhD Student / PostDoc in Bioinformatics | Johannes Gutenberg University Mainz |
+| Since 01/2023 | Volunteer, Project Lead & Contributor | OpenBioML |
+| 07/2020 – 07/2024 | PhD Student in Bioinformatics (PostDoc from 09/2023) | Johannes Gutenberg University Mainz |
 | 08/2017 – 09/2020 | Research Assistant | University Medical Center, JGU Mainz |
 
-## International Collaborations & Activities
+## Collaborations & Activities
 
 - **Scientific Advisor** to [DeoxyTech Ltd.](https://deoxytech.com/), a biotech start-up in Manchester, UK, working on DNA embedding models
-- **OpenBioML** — active contributor and project lead in NeuroAI, generative modelling for bio-sequences, and science policy
 - **Biosecurity consortium** — co-leading efforts with partners at the Robert Koch Institute (RKI) and the German Research Center for Artificial Intelligence (DFKI) on security and dual-use risks of generative AI in biology, funded by the Rhine-Main Universities and the Wübben Stiftung Wissenschaft
-- **Merck Innovation Cup** — selected participant (2022, 1% admission rate), invited Coach for Team Digital Medicine (2025)
-- **Mentoring** — mentor at [AI Grid](https://www.ai-grid.de/) (BMBF-funded), mentee in the curAMento programme (curATime)
+- **Sandpit Conference** on generative AI for biological sequence design (Wübben Stiftung Wissenschaft), resulting in guidelines on the use and biorisks of generative AI in the life sciences, accepted as a Perspective in *Nature Communications*
+- **AIxBio teaching curriculum** — leading a project to design an AIxBio curriculum based on a workshop format for sharing open problems, with the Scottish Universities Life Sciences Alliance (SULSA), the IQCB, and funding from Rhineland-Palatinate
+- **OpenBioML** — contributor and project lead in NeuroAI, generative modelling for bio-sequences, and science policy
+- **Merck Innovation Cup** — selected participant (2022), mentor in the alumni network, invited Coach for Team Digital Medicine (2025)
+- **Mentoring** — mentor at [AI Grid](https://www.ai-grid.de/) (BMFTR-funded) and coach at its AI summer school; mentee in the curAMento programme (curATime)
 
 ## Funding
 
-Over **€200,000** in attracted funding as PI or Co-PI, plus substantial compute grants. Selected awarded grants:
+More than **€700,000** in attracted funding, plus substantial compute grants. Main grants:
 
-| Period | Title | Funder |
-|--------|-------|--------|
-| 2026–2027 | Erring Rigorously — On quantifying the impact of errors in the wet lab on downstream analysis | Einstein Foundation |
-| 2025–2026 | Generative AI for Biological Sequence Design — Opportunities, Challenges and Responsible Innovation (Sandpit) | Wübben Stiftung Wissenschaft |
-| 2025 | Seed Funding for Consortium to Benchmark Security and Dual-Use Risks of AI Models in Biology | Rhine-Main Universities |
-| 2026 | Guided Diffusion Models for Targeted Phage Genome Generation | Carl-Zeiss-Foundation |
-| 2025 | Comprehensive Dataset Development and Ethical Frameworks for AI-Driven Synthetic Genomics | SynGen / Carl-Zeiss-Foundation |
-| 2024–2025 | Compute allocation at the NHR-Cluster Göttingen (2.5M+ core hours) | NHR e.V. |
-| 2024–2025 | CurAFellow — Exposome modelling of Chest Pain unit admissions | curATime / BMBF |
-| 2023–2024 | MMAseq — Mixed Models for Artifacts in RNA-Sequencing | Carl-Zeiss-Foundation / EAI |
+| Period | Project | Funder | Amount |
+|--------|---------|--------|-------:|
+| 2027–2028 | SVITER — Spatiotemporal Atlas of Vascular Inflammaging and Therapeutic Targeting of DPP4 for Endothelial Resilience | ReALity Initiative, Rhineland-Palatinate | €493,000 |
+| 2026–2027 | Alternative polyadenylation as a marker of immune aging (Else Kröner Promotionskolleg „ImmunYoAge“) | Else Kröner-Fresenius-Stiftung / TRANSMED | €26,355 |
+| 2026–2027 | Erring Rigorously — On quantifying the impact of errors in the wet lab on downstream analysis | Einstein Foundation | €100,000 |
+| 2025 | Seed funding for a consortium to benchmark security and dual-use risks of AI models in biology | Rhine-Main Universities | €30,000 |
+| 2025–2026 | Generative AI for Biological Sequence Design — Opportunities, Challenges and Responsible Innovation (Sandpit) | Wübben Stiftung Wissenschaft | €50,000 |
+
+Smaller grants include Carl-Zeiss-Foundation funding for guided diffusion models for phage genome generation (2026), for datasets and ethical frameworks for AI-driven synthetic genomics (SynGen, 2025), and for mixed models of artifacts in RNA sequencing (MMAseq microgrant, 2023–2024); funding from Rhineland-Palatinate and the IQCB for an AIxBio teaching workshop with SULSA (2026); and a curATime CurAFellow position on exposome modelling of chest pain unit admissions (2024–2025). Compute grants at the NHR cluster in Göttingen provided 2.5 million CPU core hours and 25,000 GPU hours (2024–2025).
 
 ## Academic Distinctions
 
 - **Einstein Early Career Researcher Award 2025** — project "Erring Rigorously"
 - **Boehringer Ingelheim Foundation Dissertation Award 2025**
+- **Invited participant**, Brazilian-German Frontiers of Science and Technology Symposium (BRAGFOST), Alexander von Humboldt Foundation
 - **Doctorate *summa cum laude*** (2024)
-- **Medizinsonderpreis**, Rhineland-Palatinate Idea Competition (2022) — "Draw\@Home" automated blood sampling concept
+- **Medizinsonderpreis**, Rhineland-Palatinate Idea Competition (2022) — "Draw\@Home" automated blood sampling concept; subsequently GeneNovate Entrepreneurship course (2024)
 - **Merck Innovation Cup** participant (2022, 1% admission rate of 3,800+ applicants)
 
-## Teaching
+## Teaching & Supervision
 
 - Bachelor and Master courses in Bioinformatics: programming, gene expression analysis, and machine learning
-- Supervision of PhD students, Master's students, MD candidates, and Bachelor students in functional genomics, sequence design, and data integration
+- Supervision of PhD students, MD candidates, Master's and Bachelor students in functional genomics, sequence design, data quality, and data integration
+- First supervisor and mentor in the Else Kröner Promotionskolleg „ImmunYoAge“ (TRANSMED, University Medical Center Mainz); member of a PhD thesis advisory committee
 
 ## Publications
 
@@ -76,4 +80,4 @@ See the full list on the [publications page](../research/publications.qmd).
 - **Email:** [masprang@uni-mainz.de](mailto:masprang@uni-mainz.de)
 - **LinkedIn:** [maximilian-sprang](https://www.linkedin.com/in/maximilian-sprang-152227239/)
 - **Institution:** Sprang Lab (BioAI group), Department of Dermatology & Institute for Quantitative and Computational Biosciences (IQCB), Johannes Gutenberg University Mainz, Germany
-- **Also:** Junior Faculty, Max Planck Graduate Center (MPGC) Mainz
+- **Also:** Junior Faculty, Max Planck Graduate Center (MPGC) Mainz · PI, [Center SynGen](https://www.syn-gen.de/members) (Center for Synthetic Genomics Heidelberg–Karlsruhe–Mainz)

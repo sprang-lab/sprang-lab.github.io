@@ -7,6 +7,8 @@ project:
 
 website:
   title: "Sprang Lab"
+  site-url: https://sprang-lab.github.io
+  repo-url: https://github.com/sprang-lab/sprang-lab.github.io
   description: "Sprang Lab, the BioAI group of Dr. Maximilian Sprang at Johannes Gutenberg University Mainz"
   navbar:
     background: dark
@@ -29,7 +31,7 @@ website:
         href: blog/index.qmd
     right:
       - icon: github
-        href: https://github.com/Muedi
+        href: https://github.com/sprang-lab
       - icon: linkedin
         href: https://www.linkedin.com/in/maximilian-sprang-152227239/
       - icon: envelope
@@ -37,6 +39,9 @@ website:
   page-footer:
     background: dark
     center: "© 2026 Sprang Lab · BioAI Group · Built with [Quarto](https://quarto.org)"
+    right:
+      - text: "Impressum"
+        href: impressum.qmd
 
 format:
   html:

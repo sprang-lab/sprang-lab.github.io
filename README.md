@@ -1,7 +1,7 @@
 # Sprang Lab website
 
 This repository holds the website of the Sprang Lab (BioAI group) at UMC & IQCB, Johannes Gutenberg
-University Mainz. It is written in [Quarto](https://quarto.org): every page is a `.qmd` file (Markdown
+University Mainz, live at <https://sprang-lab.github.io>. It is written in [Quarto](https://quarto.org): every page is a `.qmd` file (Markdown
 with a small YAML header), and Quarto turns them into the static site.
 
 This README is for lab members who want to update their profile, write a blog post, or otherwise
@@ -13,7 +13,9 @@ change the site.
 .
 ├── _quarto.yml              Site configuration: navbar, footer, theme, which files are built
 ├── styles.css               All custom styling (colours, cards, slideshow, people pages)
+├── theme.scss               Theme tweaks: system fonts instead of Google Fonts (GDPR)
 ├── index.qmd                Home page, incl. the photo slideshow (raw HTML block)
+├── impressum.qmd            Impressum incl. a short data protection note (linked in the footer)
 ├── references.bib           BibTeX for the publications page
 ├── README.md                This file
 │
@@ -54,8 +56,8 @@ change the site.
 2. Clone the repository:
 
    ```bash
-   git clone git@github.com:Muedi/sprang-and-friends.git
-   cd sprang-and-friends
+   git clone git@github.com:sprang-lab/sprang-lab.github.io.git
+   cd sprang-lab.github.io
    ```
 
 3. Start a live preview. It opens the site in your browser and reloads whenever you save a file:
