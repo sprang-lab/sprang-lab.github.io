@@ -82,7 +82,9 @@ MD candidate
 
 Scholarship holder, Else Kröner Promotionskolleg „ImmunYoAge“
 
-*Alternative polyadenylation signatures in aging*
+*Alternative polyadenylation as a marker of biological immune age*
+
+[Profile &rarr;](mansour.qmd)
 :::
 :::
 

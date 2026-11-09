@@ -1,0 +1,19 @@
+---
+title: "Yasmin Mansour"
+subtitle: "MD Candidate · Scholarship holder, Else Kröner Promotionskolleg „ImmunYoAge“"
+toc: false
+---
+
+<!-- Photo to come: save it as images/profiles/yasmin_mansour.jpg and switch to the photo layout of the other profile pages -->
+
+## About
+
+My name is Yasmin Mansour, and I am currently in the 12th semester of my medical studies at Johannes Gutenberg University Mainz, completing my Practical Year (final year of medical school). I am also pursuing a Doctor of Medicine (Dr. med.) degree. In addition, I am a qualified nurse and work alongside my medical studies at the University Medical Center Mainz.
+
+## Project: Alternative polyadenylation as a marker of biological immune age
+
+As the human body ages, the immune system undergoes functional changes that can vary between individuals and across different immune cell types. This project aims to investigate whether alternative polyadenylation (APA), a mechanism involved in the regulation of messenger RNA processing, reflects age-related changes in immune cells and can be used to determine biological immune age.
+
+To this end, single-cell transcriptomic data from different immune cell types will be analyzed, and machine learning approaches will be used to develop an APA-based "Immune Aging Clock". Subsequently, the project will investigate how infections and vaccinations influence these age-associated APA patterns and whether such changes can be used to detect alterations in biological immune age.
+
+[&larr; Back to People](index.qmd)
