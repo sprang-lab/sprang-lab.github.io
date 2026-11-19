@@ -35,7 +35,7 @@ I maintain active international collaborations, including work with [DeoxyTech L
 
 - **Scientific Advisor** to [DeoxyTech Ltd.](https://deoxytech.com/), a biotech start-up in Manchester, UK, working on DNA embedding models
 - **Biosecurity consortium** — co-leading efforts with partners at the Robert Koch Institute (RKI) and the German Research Center for Artificial Intelligence (DFKI) on security and dual-use risks of generative AI in biology, funded by the Rhine-Main Universities and the Wübben Stiftung Wissenschaft
-- **Sandpit Conference** on generative AI for biological sequence design (Wübben Stiftung Wissenschaft), resulting in guidelines on the use and biorisks of generative AI in the life sciences, accepted as a Perspective in *Nature Communications*
+- **Sandpit Conference** on generative AI for biological sequence design (Wübben Stiftung Wissenschaft), resulting in guidelines on the use and biorisks of generative AI in the life sciences, published as a Perspective in [*Nature Communications* (2026)](https://doi.org/10.1038/s41467-026-78758-5)
 - **AIxBio teaching curriculum** — leading a project to design an AIxBio curriculum based on a workshop format for sharing open problems, with the Scottish Universities Life Sciences Alliance (SULSA), the IQCB, and funding from Rhineland-Palatinate
 - **OpenBioML** — contributor and project lead in NeuroAI, generative modelling for bio-sequences, and science policy
 - **Merck Innovation Cup** — selected participant (2022), mentor in the alumni network, invited Coach for Team Digital Medicine (2025)
