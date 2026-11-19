@@ -8,7 +8,7 @@ toc: true
 
 I am a computational biologist and, since August 2026, Independent Junior Group Leader for Bioinformatics and Genomics at the Department of Dermatology of the University Medical Center and the Institute for Quantitative and Computational Biosciences (IQCB) of Johannes Gutenberg University Mainz, Germany, where I head the Sprang Lab (BioAI group). From 2027, I will take up a position as IQCB Scientist, the first appointment of this kind at the new institute. I am also Junior Faculty at the Max Planck Graduate Center (MPGC) Mainz and a PI in the [Center for Synthetic Genomics Heidelberg–Karlsruhe–Mainz](https://www.syn-gen.de/members) (Center SynGen). My research focuses on machine learning for genomics, with particular interests in DNA language models, data quality in multi-omics, and the biosecurity implications of generative AI in the life sciences. I am a father of two.
 
-I maintain active international collaborations, including work with [DeoxyTech Ltd.](https://deoxytech.com/) (Manchester, UK) on DNA embedding models, involvement in the [OpenBioML](https://www.openbioml.org/) open science community, and partnerships with researchers in Edinburgh, Barcelona and Zürich and across Europe on biosecurity and AI safety in biology.
+I maintain active international collaborations, including work with [DeoxyTech Ltd.](https://deoxytech.com/) (Manchester, UK) on DNA embedding models, involvement in the [OpenBioML](https://huggingface.co/OpenBioML) open science community, and partnerships with researchers in Edinburgh, Barcelona and Zürich and across Europe on biosecurity and AI safety in biology.
 
 ## Education
 
@@ -39,7 +39,7 @@ I maintain active international collaborations, including work with [DeoxyTech L
 - **AIxBio teaching curriculum** — leading a project to design an AIxBio curriculum based on a workshop format for sharing open problems, with the Scottish Universities Life Sciences Alliance (SULSA), the IQCB, and funding from Rhineland-Palatinate
 - **OpenBioML** — contributor and project lead in NeuroAI, generative modelling for bio-sequences, and science policy
 - **Merck Innovation Cup** — selected participant (2022), mentor in the alumni network, invited Coach for Team Digital Medicine (2025)
-- **Mentoring** — mentor at [AI Grid](https://www.ai-grid.de/) (BMFTR-funded) and coach at its AI summer school; mentee in the curAMento programme (curATime)
+- **Mentoring** — mentor at [AI Grid](https://ai-grid.org/en) (BMFTR-funded) and coach at its AI summer school; mentee in the curAMento programme (curATime)
 
 ## Funding
 

@@ -224,6 +224,15 @@ th {
   color: var(--sf-dark);
 }
 
+/* On phones, wide tables (e.g. funding on the CV page) scroll inside their own box */
+@media (max-width: 575.98px) {
+  main table {
+    display: block;
+    overflow-x: auto;
+    font-size: 0.85rem;
+  }
+}
+
 /* --- Footer --- */
 .nav-footer {
   background-color: var(--sf-dark) !important;
