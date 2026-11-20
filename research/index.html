@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
+<body class="nav-fixed fullcontent quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -163,20 +163,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" aria-labelledby="toc-title" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#research-themes" id="toc-research-themes" class="nav-link active" data-scroll-target="#research-themes">Research Themes</a>
-  <ul class="collapse">
-  <li><a href="#dna-language-models" id="toc-dna-language-models" class="nav-link" data-scroll-target="#dna-language-models">DNA Language Models</a></li>
-  <li><a href="#biosecurity" id="toc-biosecurity" class="nav-link" data-scroll-target="#biosecurity">Biosecurity</a></li>
-  <li><a href="#open-science-reproducibility" id="toc-open-science-reproducibility" class="nav-link" data-scroll-target="#open-science-reproducibility">Open Science &amp; Reproducibility</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content" tabindex="-1">
 
@@ -200,37 +187,27 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>This page is under construction. More details on our research themes will follow in the coming weeks.</p>
-</div>
-</div>
-<p>Our research spans computational biology, machine learning for genomics, and biosecurity. Below are our main themes — see <a href="../research/publications.html">Publications</a> for the full paper list and <a href="../research/projects.html">Projects</a> for active work.</p>
-<section id="research-themes" class="level2">
-<h2 class="anchored" data-anchor-id="research-themes">Research Themes</h2>
-<section id="dna-language-models" class="level3">
-<h3 class="anchored" data-anchor-id="dna-language-models">DNA Language Models</h3>
-<p>Applying large language model architectures to genomic sequences to learn the grammar of DNA.</p>
+<p><strong>Trustworthy data first.</strong> Machine learning can only be as reliable as the data it learns from, and that is where our work began. Sequencing experiments carry hidden quality problems: we showed that poor-quality samples that are unevenly distributed between patient groups, a <em>quality imbalance</em>, distort the results of a large share of published clinical RNA-seq studies (<a href="https://doi.org/10.1186/s13059-024-03331-6">Genome Biology, 2024</a>). We develop machine-learning tools that assess data quality automatically, building on <a href="https://doi.org/10.1186/s13059-021-02294-2">seqQscorer</a>, and release <a href="https://doi.org/10.48550/arXiv.2604.04981">open benchmark datasets</a> for quality control of next-generation sequencing. In the Einstein Foundation–funded project <a href="../research/projects.html#erring-rigorously"><em>Erring Rigorously</em></a>, we now introduce controlled errors in the wet lab to measure how they propagate into downstream analyses.</p>
+<p><strong>Models that learn biology.</strong> On the modelling side, we train and critically test foundation models for biological sequences, from DNA language models to transfer learning across peptides, metabolites and proteins. Rather than assuming that scale solves everything, we ask what these models actually learn, where standard architectures fall short, and which training objectives and benchmarks can do better. Where predictions should inform biology or the clinic, we favour interpretable models. Biologically informed neural networks such as <a href="https://doi.org/10.34133/csbj.0145">MiracleNet</a> tie their predictions to known genes and pathways, for example to predict survival in lung cancer from microRNA data. Our applications come from close collaborations in immunology, cancer and vascular biology, such as the vascular-ageing project <a href="../research/projects.html#sviter">SVITER</a>.</p>
+<p><strong>Responsible and open.</strong> Generative models that can design DNA also bring new risks. Together with partners from AI, the life sciences and policy, we develop safeguards for AI-driven biological sequence design: our <a href="https://doi.org/10.1038/s41467-026-78758-5">defence-in-depth framework</a> in <em>Nature Communications</em> (2026) proposes layered protections across data, models and DNA synthesis, and our <a href="https://doi.org/10.1016/j.tig.2026.04.001">perspective</a> in <em>Trends in Genetics</em> weighs innovation against risk in genomic AI. We share code, models and datasets openly on <a href="https://github.com/sprang-lab">GitHub</a> and <a href="https://huggingface.co/DNA-LLM">Hugging Face</a>, holding back only what would pose a biosecurity risk, such as training code for viral sequence models. And because the next generation of researchers will need to work across these boundaries, we are building new teaching formats, starting with the <a href="../research/projects.html#aixbio-frontiers-and-futures">AIxBio: Frontiers and Futures</a> curriculum project.</p>
+<div class="grid link-cards">
+<div class="g-col-12 g-col-md-6">
+<section id="publications" class="level3 card-section neon-cyan">
+<h3 class="anchored" data-anchor-id="publications">Publications</h3>
+<p>Papers and preprints on data quality, sequence models, interpretable machine learning and biosecurity.</p>
+<p><a href="../research/publications.html" class="stretched-link">Browse all publications →</a></p>
 </section>
-<section id="biosecurity" class="level3">
-<h3 class="anchored" data-anchor-id="biosecurity">Biosecurity</h3>
-<p>Computational approaches to biosecurity challenges, including sequence screening and risk assessment.</p>
+</div>
+<div class="g-col-12 g-col-md-6">
+<section id="projects" class="level3 card-section neon-magenta">
+<h3 class="anchored" data-anchor-id="projects">Projects</h3>
+<p>Our funded projects: vascular ageing (SVITER), errors in the wet lab (Erring Rigorously) and a new curriculum for AI in the biosciences (AIxBio).</p>
+<p><a href="../research/projects.html" class="stretched-link">See our projects →</a></p>
 </section>
-<section id="open-science-reproducibility" class="level3">
-<h3 class="anchored" data-anchor-id="open-science-reproducibility">Open Science &amp; Reproducibility</h3>
-<p>Building open-source tools and sharing datasets to make computational biology more accessible and reproducible.</p>
+</div>
+</div>
 
 
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

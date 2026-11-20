@@ -179,6 +179,20 @@ a:hover {
   transform: translateY(-3px);
 }
 
+/* Whole card is clickable when it contains a .stretched-link (Bootstrap) */
+.card-section:has(.stretched-link) {
+  position: relative;
+}
+
+/* Link cards inside normal pages (e.g. Research overview) */
+.link-cards {
+  margin: 2rem 0;
+}
+
+.link-cards .card-section p:last-child {
+  margin-bottom: 0;
+}
+
 .card-section h3 {
   margin-bottom: 0.8rem;
 }
@@ -300,6 +314,16 @@ img.project-photo {
 .project-photo-pair img.project-photo {
   aspect-ratio: 4 / 3;
   object-fit: cover;
+}
+
+/* Diagrams on the Projects page sit on their own white card */
+img.project-figure {
+  display: block;
+  width: 100%;
+  max-width: 520px;            /* smaller than the text column; full width on phones */
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.45);
 }
 
 .photo-credit.project-credit {
