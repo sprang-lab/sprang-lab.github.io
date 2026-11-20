@@ -23,7 +23,7 @@ My project investigates how AI can learn and generate biological DNA sequences. 
 ::: {.joint-papers}
 **Papers with the lab**
 
-- **HA Hassan**, **G D'Amico**, **M Sprang**. **DVQ: A library for the visual and statistical representation of nucleotide sequences.** Work in progress · [github.com/dna-llm/dvq](https://github.com/dna-llm/dvq)
+- **HA Hassan**, **G D'Amico**, **M Sprang**. **DVQ: A library for the visual and statistical representation of nucleotide sequences.** Work in progress · [github.com/sprang-lab/dvq](https://github.com/sprang-lab/dvq)
 :::
 
 :::

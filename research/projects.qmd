@@ -23,6 +23,27 @@ SVITER is a collaboration between our lab, which contributes the bioinformatics,
 
 [More about SVITER on the ReALity Initiative website →](https://reality.uni-mainz.de/sviter-2/)
 
+## Erring Rigorously
+
+*On quantifying the impact of errors in the wet lab on downstream analysis*
+
+Sequencing data are the backbone of modern biomedical research, but technical artefacts and batch effects introduced at the bench can blur the biological signal and lead to wrong conclusions. In earlier work we showed that differences in data quality between sample groups, a *quality imbalance*, affect more than 30% of public RNA-seq datasets, including clinical studies ([Genome Biology, 2024](https://doi.org/10.1186/s13059-024-03331-6)). Most of the field deals with such problems after the fact, by filtering or correcting the data. Erring Rigorously goes to their source and asks which steps in the wet lab actually introduce them, and how much each one matters.
+
+To find out, we make mistakes on purpose. Starting from a clean ground-truth experiment, wild-type versus knock-out cells from the same stock under optimal conditions, we perturb the same workflow at defined stages:
+
+- **Cell culture:** higher passage numbers and different confluency at splitting
+- **RNA:** controlled degradation to different levels of RNA integrity
+- **Handling:** a parallel workflow run by a different person, to create a realistic batch effect
+- **Library preparation:** poly-A enrichment, rRNA depletion and long-read protocols
+
+For every sample we measure quality with our machine-learning tool [seqQscorer](https://doi.org/10.1186/s13059-021-02294-2) and follow the effect through differential expression analysis, to see which perturbations distort the biological signal and which leave it intact.
+
+The project will produce a fully annotated, openly shared dataset that pairs a known biological comparison with known technical errors: a benchmark for testing batch-effect correction and normalisation methods, and for refining seqQscorer. It also tackles a broader question: does poor technical quality always rule out meaningful biological insight, or can imperfect data still be useful once its biases are understood? Wet-lab work is carried out with partner labs, while our lab leads the bioinformatics and machine learning.
+
+**Funding:** Einstein Foundation Award for Promoting Quality in Research, Early Career category (2025) · **Period:** 2026–2027
+
+[About the project on the Einstein Foundation website →](https://award.einsteinfoundation.de/award-winners-finalists/recipients-2025/erring-rigorously) · [Einstein Foundation podcast episode with Max Sprang →](https://www.einsteinfoundation.de/aktuelles/details/can-bad-genomic-data-make-science-better)
+
 ## AIxBio: Frontiers and Futures
 
 *From shared blind spots to a new curriculum for teaching at the interface of AI and the biosciences*

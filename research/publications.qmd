@@ -111,6 +111,6 @@ ORCID: [0000-0002-8438-4747](https://orcid.org/0000-0002-8438-4747)
 ## Software & Data
 
 32. HA Hassan, G D'Amico, **M Sprang**. **DVQ: A library for the visual and statistical representation of nucleotide sequences.** Work in progress. \
-    [github.com/dna-llm/dvq](https://github.com/dna-llm/dvq)
+    [github.com/sprang-lab/dvq](https://github.com/sprang-lab/dvq)
 
 33. **M Sprang**, HA Hassan et al. **DNA-LLM Group at Hugging Face** — Interactive dashboards for viral sequences and preprocessed open DNA sequence datasets. [huggingface.co/DNA-LLM](https://huggingface.co/DNA-LLM).

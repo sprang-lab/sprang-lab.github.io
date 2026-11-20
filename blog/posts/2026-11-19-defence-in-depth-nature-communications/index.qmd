@@ -1,0 +1,36 @@
+---
+title: "A defence-in-depth strategy for AI-driven sequence design, now in Nature Communications"
+author: "Maximilian Sprang"
+date: "2026-11-19"
+categories: [news, press]
+description: "Our Perspective proposes layered safeguards for generative AI in biology, from training data to models to DNA synthesis. The University Medical Center Mainz and the Wübben Stiftung Wissenschaft have announced it in press releases."
+---
+
+Generative AI models can now write biological sequences: proteins, enzymes and even small viral genomes. This opens real opportunities for medicine and biotechnology, from faster design of therapeutics to bespoke phages against antimicrobial resistance. The same capability could also be misused. Our Perspective in *Nature Communications*, published on 19 November 2026, sets out how the field can keep the benefits while managing the risks.
+
+The paper grew out of the Wübben Sandpit conference on generative AI for biological sequences, a three-day workshop held from 25 to 27 November 2025 and funded by the Wübben Stiftung Wissenschaft. Twenty participants from molecular biology, AI, bioinformatics, biosecurity, ethics, medicine and policy, coming from academia, industry and government in Europe and the United States, mapped the dual-use risks of sequence design and drafted recommendations to address them. The work was led from the Department of Dermatology at the University Medical Center Mainz and the Institute for Quantitative and Computational Biosciences (IQCB) at Johannes Gutenberg University Mainz.
+
+## What we propose
+
+Our central argument is that no single safeguard is enough. Instead, protection should be layered along the whole chain from a digital design to a physical molecule, a "defence in depth":
+
+- **Data.** A shared definition of what counts as dual-use pathogen data, more awareness among researchers of the risks in the data they hold, and tiered access instead of a simple choice between open and closed: foundational data stay open, while functional data on pandemic pathogens require verified credentials. Funders should check biosecurity risks when they review projects that will generate sensitive data.
+- **Models.** Risk–benefit assessment across a model's whole lifecycle, from training to deployment; safety benchmarks that combine computational red-teaming with experimental validation; and hosted, API-based access for the most capable models, so that they can be audited independently and their weights are not distributed freely.
+- **DNA synthesis.** Stronger sequence screening across synthesis providers, customer identity checks and tracking of critical equipment, clear and binding rules for screening, and a sector-wide fund for research on risks and their mitigation.
+
+At the same time, we argue against blanket restrictions. There is currently no evidence that AI can design entirely new, more dangerous human pathogens; the concern is about future, more capable models. Safeguards should therefore rest on a realistic view of what today's models can and cannot do, so that they support responsible research rather than slow it down. Many of them, such as better interpretability and structured risk assessment, should make the models more useful as well. In our view, good governance is part of what makes progress possible.
+
+## Read the paper
+
+M Sprang, HA Hassan, Y Ektefaie, A Schmieder, A Wasilenko, MS Hanke, RE Martín-Peña, R Harkness, J Götting, A Murphy, JU Mayer, M Schäfer, A Friedrich, K Lenhof, S Rudorf, G Gronvall, J Kellmann, S Anders, B Aysan, N Saverschek, K Schuldt, M Güell, K Ladewig, G Hattab. **A defence-in-depth strategy for securing AI-driven biological sequence design.** *Nature Communications* 17, 11450 (2026). Open access.
+
+[Read the Perspective in Nature Communications →](https://doi.org/10.1038/s41467-026-78758-5)
+
+## Press coverage
+
+The Wübben Stiftung Wissenschaft (in English) and the University Medical Center Mainz (in German) announced the paper in press releases on publication day:
+
+- [Press release: Wübben Stiftung Wissenschaft →](https://www.wuebben-stiftung-wissenschaft.org/en/news/ai-biology-researchers-call-multi-layered-security-architecture)
+- [Press release (German): University Medical Center Mainz →](https://unimedizin-mainz.de/newsroom/neuigkeiten/aktuelle-meldungen/newsdetail/article/ki-in-der-biologie-forschende-fordern-mehrstufige-sicherheitsarchitektur.html)
+
+More about the Sandpit on generative AI in biology is on the [Wübben Stiftung Wissenschaft website →](https://www.wuebben-stiftung-wissenschaft.org/en/sandpit/ai-biology)
