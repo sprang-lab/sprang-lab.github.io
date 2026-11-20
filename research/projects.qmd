@@ -29,12 +29,14 @@ SVITER is a collaboration between our lab, which contributes the bioinformatics,
 
 Sequencing data are the backbone of modern biomedical research, but technical artefacts and batch effects introduced at the bench can blur the biological signal and lead to wrong conclusions. In earlier work we showed that differences in data quality between sample groups, a *quality imbalance*, affect more than 30% of public RNA-seq datasets, including clinical studies ([Genome Biology, 2024](https://doi.org/10.1186/s13059-024-03331-6)). Most of the field deals with such problems after the fact, by filtering or correcting the data. Erring Rigorously goes to their source and asks which steps in the wet lab actually introduce them, and how much each one matters.
 
-To find out, we make mistakes on purpose. Starting from a clean ground-truth experiment, wild-type versus knock-out cells from the same stock under optimal conditions, we perturb the same workflow at defined stages:
+To find out, we make mistakes on purpose. Starting from a clean ground-truth experiment, a treatment–control comparison of cells from the same stock under optimal conditions, we perturb the same workflow at defined stages:
 
 - **Cell culture:** higher passage numbers and different confluency at splitting
 - **RNA:** controlled degradation to different levels of RNA integrity
 - **Handling:** a parallel workflow run by a different person, to create a realistic batch effect
 - **Library preparation:** poly-A enrichment, rRNA depletion and long-read protocols
+
+![Planned design: a 4 + 4 ground-truth comparison of treatment and control, with each perturbation (cell passage, cell density, RNA integrity) added at two levels plus a batch effect, 64 samples in total](../images/projects/einstein/design-matrix.png){.project-figure fig-alt="Design matrix of the experiment: an 8-sample ground truth shared by all conditions; cell passage, cell density and RNA integrity each changed at two levels with 8 samples per change; a batch-effect arm with 8 samples; 64 samples in total" group="erring"}
 
 For every sample we measure quality with our machine-learning tool [seqQscorer](https://doi.org/10.1186/s13059-021-02294-2) and follow the effect through differential expression analysis, to see which perturbations distort the biological signal and which leave it intact.
 
