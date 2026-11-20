@@ -288,6 +288,31 @@ a:hover {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.45);
 }
 
+/* --- Project photos (Projects page) --- */
+img.project-photo {
+  width: 100%;
+  border-radius: 10px;
+  border-bottom: 4px solid var(--sf-neon-magenta);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.45);
+}
+
+/* Photo pairs share one shape, so the two sit level; the lightbox shows the full photo */
+.project-photo-pair img.project-photo {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.photo-credit.project-credit {
+  text-align: right;
+  margin: -0.6rem 0 1rem;
+}
+
+main .quarto-figure figcaption {
+  color: var(--sf-muted);
+  font-size: 0.85rem;
+  text-align: center;
+}
+
 /* --- Tables --- */
 table {
   border-collapse: collapse;

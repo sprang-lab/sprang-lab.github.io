@@ -11,3 +11,6 @@
 _freeze/
 **/*.quarto_ipynb
 
+
+# Full-size source photos; the site uses the web-sized copies next to them
+_originals/

@@ -2,6 +2,7 @@
 title: "Projects"
 subtitle: "Active and past research projects"
 toc: false
+lightbox: true   # click a photo to see it large (bundled with Quarto, no external scripts)
 ---
 
 ## SVITER
@@ -21,6 +22,35 @@ SVITER is a collaboration between our lab, which contributes the bioinformatics,
 **Funding:** ReALity Initiative, Rhineland-Palatinate · **Period:** 2026–2028 · **PIs:** Dr. Maximilian Sprang (Department of Dermatology, contact) and Dr. Miriam Julia Renz (Department of Anesthesiology), University Medical Center Mainz
 
 [More about SVITER on the ReALity Initiative website →](https://reality.uni-mainz.de/sviter-2/)
+
+## AIxBio: Frontiers and Futures
+
+*From shared blind spots to a new curriculum for teaching at the interface of AI and the biosciences*
+
+![Participants of the workshop "AI in Bioscience: Converging Interests and Joint Solutions", Mainz, October 2026](../images/projects/aixbio/group.jpg){.project-photo fig-alt="Group photo of the workshop participants standing on garden steps in autumn" group="aixbio"}
+
+AI is changing bioscience research quickly, but computational and experimental scientists still often talk past each other: different research cultures, disciplinary boundaries and unsolved methodological problems get in the way of real collaboration. AIxBio: Frontiers and Futures starts from those open problems rather than from finished results, and turns them into teaching.
+
+**Workshop (October 2026).** On 27 and 28 October 2026, the workshop "AI in Bioscience: Converging Interests and Joint Solutions" brought PhD candidates and postdocs from bioscience and AI together in Mainz with keynote speakers and industry representatives. Every participant contributed a "Blind Spot": a dataset they don't know how to model, or an algorithm still looking for a bioscience use case. These were presented as posters throughout the workshop and then taken up in small breakout groups, which worked through shared challenges such as biological data analysis, model validation and interpretability, and translating computational advances into experimental practice.
+
+**Student retreat (2027).** Next year, a retreat takes the clustered blind spots, the breakout-group results and a literature search from the workshop, and translates the problems and solutions into the key skills the next generation of quantitative bioscientists will need. The goal is a community-driven white paper on the future of bioscience teaching and a concrete new curriculum.
+
+The project is led by Max Sprang, with Nicole Johnstone (University of St Andrews, Scotland) as co-lead.
+
+::: {.grid .project-photo-pair}
+::: {.g-col-12 .g-col-md-6}
+![Presenting the plan: an open white paper and a new curriculum](../images/projects/aixbio/presenting.jpg){.project-photo fig-alt="Max Sprang presenting a slide titled Open white paper and curriculum, next to a ReALity banner" group="aixbio"}
+:::
+::: {.g-col-12 .g-col-md-6}
+![The organising team](../images/projects/aixbio/orga-team.jpg){.project-photo fig-alt="The five members of the organising team in the hotel garden" group="aixbio"}
+:::
+:::
+
+[Photos: IQCB]{.photo-credit .project-credit}
+
+**Partners:** Institute for Quantitative and Computational Biosciences (IQCB), ReALity Initiative, JGU Scotland HUB × Scottish Universities Life Sciences Alliance (SULSA) · **Funding:** Ministry of Science, Further Education and Health of Rhineland-Palatinate and the Scottish Government, through the Rhineland-Palatinate & Scotland Life Sciences Partnership · **Period:** 2026–2027
+
+[Workshop photos on the IQCB website →](https://iqcb.uni-mainz.de/events/ai-in-bioscience-2026-photos)
 
 ::: {.callout-note}
 More projects will follow soon.
