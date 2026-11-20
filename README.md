@@ -12,8 +12,8 @@ change the site.
 ```
 .
 ├── _quarto.yml              Site configuration: navbar, footer, theme, which files are built
-├── styles.css               All custom styling (colours, cards, slideshow, people pages)
-├── theme.scss               Theme tweaks: system fonts instead of Google Fonts (GDPR)
+├── styles.css               Site styling: neon accents, cards, slideshow, people pages, DNA background
+├── theme.scss               Dark night-blue theme (on Bootswatch Superhero); system fonts, no Google Fonts (GDPR)
 ├── index.qmd                Home page, incl. the photo slideshow (raw HTML block)
 ├── impressum.qmd            Impressum incl. a short data protection note (linked in the footer)
 ├── references.bib           BibTeX for the publications page
@@ -42,7 +42,8 @@ change the site.
 │   └── placeholder-avatar.svg   Shown until someone sends a photo
 │
 ├── scripts/
-│   └── make-headshot.ps1    Crops a square, face-centred headshot from a profile photo
+│   ├── make-headshot.ps1    Crops a square, face-centred headshot from a profile photo
+│   └── make-helix.awk       Draws the DNA helix background (images/helix.svg)
 │
 ├── resources/               Parked, not built (see "Parked: Resources section")
 │
@@ -164,7 +165,7 @@ The post shows up in the blog listing automatically, newest first.
 - **Publications** (`research/publications.qmd`): a hand-written, continuously numbered list. Follow the
   existing format (author initials, **M Sprang** in bold, DOI link, role badge) and renumber after
   inserting. Add a matching entry to `references.bib`.
-- **Styling**: all colours and layout tweaks live in `styles.css`; the palette is defined at the top.
+- **Styling**: base colours (background, text, links, menus, tables) are set in `theme.scss`; everything else lives in `styles.css`, with its palette defined at the top. The home-page banner is `images/banner.webp`, plus a 1024 px copy for phones.
 
 ## Parked: Resources section
 

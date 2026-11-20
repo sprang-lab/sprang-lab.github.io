@@ -2,17 +2,24 @@
 pagetitle: "Sprang Lab"
 page-layout: custom
 toc: false
+resources:
+  - images/banner-1024.webp
 ---
 
-::: {.hero-banner}
-
-# Sprang Lab
-
-[BioAI Group · UMC & IQCB, Johannes Gutenberg University Mainz]{.hero-tagline}
-
-Machine learning for biology — from data quality and generative AI for biosequences to biosecurity and beyond.
-
-:::
+```{=html}
+<div class="hero-neon">
+  <h1 class="visually-hidden">Sprang Lab</h1>
+  <img class="hero-neon-img" src="images/banner.webp"
+       srcset="images/banner-1024.webp 1024w, images/banner.webp 2172w"
+       sizes="(max-width: 2172px) 100vw, 2172px"
+       width="2172" height="318"
+       alt="Sprang Lab banner: a neon DNA helix and lab flask joined by circuit lines, with a cathedral skyline at night">
+  <div class="hero-neon-text">
+    <p class="hero-neon-tagline">BioAI Group · UMC &amp; IQCB, Johannes Gutenberg University Mainz</p>
+    <p class="hero-neon-lede">Machine learning for biology — from data quality and generative AI for biosequences to biosecurity and beyond.</p>
+  </div>
+</div>
+```
 
 ```{=html}
 <div id="heroCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
@@ -121,10 +128,10 @@ Machine learning for biology — from data quality and generative AI for biosequ
 </div>
 ```
 
-::: {.grid style="margin-top: 2rem; margin-bottom: 2rem;"}
+::: {.grid .home-cards style="margin-top: 2rem; margin-bottom: 2rem;"}
 
 ::: {.g-col-12 .g-col-md-4}
-::: {.card-section}
+::: {.card-section .neon-cyan}
 ### People
 Meet the lab members, our external students, and alumni.
 
@@ -133,7 +140,7 @@ Meet the lab members, our external students, and alumni.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-::: {.card-section .accent-violet}
+::: {.card-section .neon-magenta}
 ### Research
 Publications, active projects, and open science.
 
@@ -142,7 +149,7 @@ Publications, active projects, and open science.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-::: {.card-section}
+::: {.card-section .neon-yellow}
 ### Blog
 Posts from lab members on our papers, theses, methods, and ideas.
 

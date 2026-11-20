@@ -4,6 +4,24 @@ subtitle: "Active and past research projects"
 toc: false
 ---
 
+## SVITER
+
+*Spatiotemporal Atlas of Vascular Inflammaging and Therapeutic Targeting of DPP4 for Endothelial Resilience*
+
+SVITER asks whether an established class of diabetes drugs could help protect blood vessels as we age. The project centres on DPP4, an enzyme on the surface of endothelial and immune cells that cleaves, and thereby regulates, a broad range of inflammatory mediators such as interleukins, growth factors and cytokines. DPP4 inhibitors ("gliptins") are approved, widely prescribed and well tolerated, and there is growing evidence that blocking DPP4 reduces senescence and oxidative stress in the vasculature. In earlier work, the partner group in Anesthesiology showed that the DPP4 inhibitor sitagliptin protected small blood vessels from inflammation-related dysfunction in patients undergoing major surgery, with similar effects in mice. The group has also shown that distinct subtypes of brain endothelial cells respond differently to inflammation.
+
+Building on this, the project has three aims:
+
+1. **Map vascular ageing** by building an integrated single-cell atlas of how endothelial cells change with age across 11 tissues and different vessel types.
+2. **Link cellular changes to outcomes** by connecting these age-related changes to measures of vascular and organ health.
+3. **Test DPP4 as a therapeutic target** by determining how much DPP4 contributes to vascular resilience during ageing, and whether DPP4 inhibitors could become a strategy against age-related vascular decline.
+
+SVITER is a collaboration between our lab, which contributes the bioinformatics, and the group of Dr. Miriam Julia Renz at the Department of Anesthesiology.
+
+**Funding:** ReALity Initiative, Rhineland-Palatinate · **Period:** 2026–2028 · **PIs:** Dr. Maximilian Sprang (Department of Dermatology, contact) and Dr. Miriam Julia Renz (Department of Anesthesiology), University Medical Center Mainz
+
+[More about SVITER on the ReALity Initiative website →](https://reality.uni-mainz.de/sviter-2/)
+
 ::: {.callout-note}
-This page is under construction. Details on our active and past projects are coming soon.
+More projects will follow soon.
 :::

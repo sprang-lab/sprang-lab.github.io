@@ -1,127 +1,202 @@
 /* ==========================================================
-   Sprang Lab (BioAI Group) — Blue / Steelblue / Violet palette
+   Sprang Lab (BioAI Group) — dark night-blue theme with neon accents
+   Base colours (background, text, links, components) are set in
+   theme.scss; this file styles the site's own elements.
    ========================================================== */
 
 /* --- Palette variables --- */
 :root {
-  --sf-blue:        #2b5797;
-  --sf-steelblue:   #4a7fb5;
-  --sf-light-blue:  #d0e1f9;
-  --sf-violet:      #7b68ae;
-  --sf-light-violet:#e8e0f0;
-  --sf-dark:        #1e2d42;
-  --sf-text:        #2c3e50;
-  --sf-muted:       #6c7a89;
-  --sf-bg:          #f8f9fc;
+  --sf-night:        #0b1430;   /* page background */
+  --sf-night-deep:   #070d22;   /* navbar, footer, header band */
+  --sf-surface:      rgba(255, 255, 255, 0.035);   /* cards, boxes */
+  --sf-surface-line: rgba(255, 255, 255, 0.09);
+  --sf-text:         #d5dcef;
+  --sf-heading:      #f2f5fc;
+  --sf-muted:        #93a1c3;
+  --sf-link:         #4fdcff;
+  --sf-violet:       #8f7cff;
 
-  /* Bootstrap overrides */
-  --bs-link-color:       var(--sf-steelblue);
-  --bs-link-hover-color: var(--sf-blue);
-  --bs-body-color:       var(--sf-text);
+  /* Neon accents taken from the home-page banner */
+  --sf-neon-magenta: #ff2bd6;
+  --sf-neon-cyan:    #19e3ff;
+  --sf-neon-yellow:  #f2ff1f;
+  --sf-neon-line:    linear-gradient(90deg, var(--sf-neon-magenta) 0%, var(--sf-violet) 50%, var(--sf-neon-cyan) 100%);
+}
+
+/* --- One large DNA helix behind the pages, falling from top left to bottom right ---
+   images/helix.svg is drawn horizontally (scripts/make-helix.awk); here it is
+   stretched longer than the screen diagonal and tilted 68 degrees. It sits left
+   of centre, mostly in the empty left margin, so long text doesn't cover it.
+   It stays fixed while the page scrolls over it. */
+body::before {
+  content: "";
+  position: fixed;
+  left: 24%;
+  top: 50%;
+  width: 200vmax;
+  height: 26.7vmax;            /* keeps the SVG's 4800:640 proportions */
+  transform: translate(-50%, -50%) rotate(68deg);
+  background: url("images/helix.svg") center / 100% 100% no-repeat;
+  opacity: 0.3;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* On phones the text covers most of the screen, so keep the helix fainter */
+@media (max-width: 767.98px) {
+  body::before { opacity: 0.18; }
 }
 
 /* --- Navbar --- */
 .navbar {
-  background: linear-gradient(135deg, var(--sf-dark) 0%, var(--sf-blue) 100%) !important;
+  background: linear-gradient(135deg, #060b1d 0%, #0e1a42 100%) !important;
   border-bottom: 3px solid var(--sf-violet);
+  border-image: var(--sf-neon-line) 1;
 }
 
 .navbar .navbar-brand,
 .navbar .nav-link {
-  color: rgba(255, 255, 255, 0.9) !important;
+  color: rgba(230, 236, 250, 0.9) !important;
   transition: color 0.2s;
 }
 
 .navbar .nav-link:hover,
 .navbar .nav-link.active {
-  color: var(--sf-light-blue) !important;
+  color: var(--sf-link) !important;
 }
 
 /* --- Headings --- */
-h1, h2, h3 {
-  color: var(--sf-dark);
+h1, h2, h3, h4 {
+  color: var(--sf-heading);
 }
 
 h2 {
-  border-bottom: 2px solid var(--sf-light-blue);
+  border-bottom: 2px solid rgba(79, 220, 255, 0.25);
+  border-image: linear-gradient(90deg, rgba(255, 43, 214, 0.7) 0%, rgba(25, 227, 255, 0.35) 45%, rgba(25, 227, 255, 0) 100%) 1;
   padding-bottom: 0.3rem;
+}
+
+.quarto-title .subtitle,
+p.subtitle {
+  color: var(--sf-muted);
 }
 
 /* --- Links --- */
 a {
-  color: var(--sf-steelblue);
+  color: var(--sf-link);
   text-decoration: none;
   transition: color 0.2s;
 }
 
 a:hover {
-  color: var(--sf-violet);
+  color: #ff6be6;
 }
 
-/* --- Landing page cards --- */
+/* --- Neon banner hero (home page) --- */
+.hero-neon {
+  background: var(--sf-night-deep);
+  margin-bottom: 2rem;
+  text-align: center;
+  border-bottom: 3px solid var(--sf-violet);
+  border-image: var(--sf-neon-line) 1;
+}
+
+/* "screen" blending turns the banner's black into the band's night blue,
+   so the image has no visible edges while the neon stays bright */
+.hero-neon-img {
+  display: block;
+  width: 100%;
+  max-width: 2172px;           /* the banner's natural width */
+  height: auto;
+  margin: 0 auto;
+  mix-blend-mode: screen;
+}
+
+/* On screens wider than the banner, fade its left and right edges into the band */
+@media (min-width: 2173px) {
+  .hero-neon-img {
+    -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 6%, #000 94%, transparent 100%);
+            mask-image: linear-gradient(90deg, transparent 0, #000 6%, #000 94%, transparent 100%);
+  }
+}
+
+.hero-neon-text {
+  padding: 0.4rem 1rem 1.6rem;
+}
+
+.hero-neon .hero-neon-tagline {
+  display: inline-block;
+  margin: 0 0 0.5rem;
+  color: var(--sf-neon-cyan);
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-shadow: 0 0 8px rgba(25, 227, 255, 0.55);
+}
+
+.hero-neon .hero-neon-lede {
+  margin: 0 auto;
+  max-width: 46rem;
+  color: rgba(230, 236, 250, 0.85);
+  font-size: 1.1rem;
+}
+
+/* On phones the full-width strip would be tiny: show it taller and crop the
+   sides, keeping the "Sprang Lab" lettering in the middle */
+@media (max-width: 575.98px) {
+  .hero-neon-img {
+    height: 88px;
+    object-fit: cover;
+    object-position: 49% center;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .hero-neon .hero-neon-tagline { font-size: 0.78rem; letter-spacing: 0.05em; }
+  .hero-neon .hero-neon-lede { font-size: 0.98rem; }
+}
+
+/* --- Home page: slideshow and cards stay at a readable width --- */
+.home-cards {
+  max-width: 1200px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding: 0 1rem;
+}
+
 .card-section {
-  background: white;
+  background: var(--sf-surface);
+  border: 1px solid var(--sf-surface-line);
+  border-top: 4px solid var(--sf-link);
   border-radius: 8px;
   padding: 1.8rem;
-  box-shadow: 0 2px 8px rgba(43, 87, 151, 0.08);
-  border-top: 4px solid var(--sf-steelblue);
   transition: transform 0.2s, box-shadow 0.2s;
   height: 100%;
 }
 
 .card-section:hover {
   transform: translateY(-3px);
-  box-shadow: 0 6px 20px rgba(43, 87, 151, 0.15);
 }
 
 .card-section h3 {
-  color: var(--sf-blue);
   margin-bottom: 0.8rem;
 }
 
-.card-section.accent-violet {
-  border-top-color: var(--sf-violet);
-}
+/* Home-page cards pick up the banner colours */
+.card-section.neon-cyan    { border-top-color: var(--sf-neon-cyan); }
+.card-section.neon-magenta { border-top-color: var(--sf-neon-magenta); }
+.card-section.neon-yellow  { border-top-color: var(--sf-neon-yellow); }
 
-.card-section.accent-violet h3 {
-  color: var(--sf-violet);
-}
-
-/* --- Hero / landing --- */
-.hero-banner {
-  background: linear-gradient(135deg, var(--sf-dark) 0%, var(--sf-blue) 60%, var(--sf-violet) 100%);
-  color: white;
-  padding: 3rem 2rem;
-  border-radius: 0 0 12px 12px;
-  margin-bottom: 2rem;
-}
-
-.hero-banner h1 {
-  color: white;
-  font-size: 2.4rem;
-}
-
-.hero-banner p {
-  color: rgba(255, 255, 255, 0.85);
-  font-size: 1.15rem;
-}
-
-.hero-banner .hero-tagline {
-  display: inline-block;
-  color: white;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  font-size: 0.95rem;
-  border-left: 3px solid var(--sf-light-violet);
-  padding-left: 0.6rem;
-}
+.card-section.neon-cyan:hover    { box-shadow: 0 6px 24px rgba(25, 227, 255, 0.18); }
+.card-section.neon-magenta:hover { box-shadow: 0 6px 24px rgba(255, 43, 214, 0.18); }
+.card-section.neon-yellow:hover  { box-shadow: 0 6px 24px rgba(242, 255, 31, 0.14); }
 
 /* --- Profile images --- */
 .profile-photo {
   border-radius: 50%;
-  border: 3px solid var(--sf-steelblue);
-  box-shadow: 0 2px 10px rgba(43, 87, 151, 0.15);
+  border: 3px solid var(--sf-link);
+  box-shadow: 0 0 14px rgba(79, 220, 255, 0.25);
   object-fit: cover;
 }
 
@@ -152,7 +227,7 @@ a:hover {
 /* --- Alumni page entries --- */
 .alumni-entry {
   padding: 1.5rem 0;
-  border-bottom: 1px solid var(--sf-light-blue);
+  border-bottom: 1px solid var(--sf-surface-line);
 }
 
 .alumni-entry img {
@@ -173,8 +248,8 @@ a:hover {
 
 .alumni-now {
   display: inline-block;
-  background-color: var(--sf-light-blue);
-  color: var(--sf-dark);
+  background-color: rgba(25, 227, 255, 0.12);
+  color: #bdf3ff;
   font-size: 0.85rem;
   padding: 0.2rem 0.7rem;
   border-radius: 12px;
@@ -188,8 +263,8 @@ a:hover {
 
 /* --- Joint papers list (profiles and alumni) --- */
 .joint-papers {
-  background: var(--sf-bg);
-  border-left: 3px solid var(--sf-violet);
+  background: var(--sf-surface);
+  border-left: 3px solid var(--sf-neon-magenta);
   border-radius: 0 6px 6px 0;
   padding: 0.8rem 1rem 0.2rem;
   margin-top: 1rem;
@@ -209,8 +284,8 @@ a:hover {
   width: 100%;
   max-width: 320px;
   border-radius: 10px;
-  border-bottom: 4px solid var(--sf-violet);
-  box-shadow: 0 4px 16px rgba(30, 45, 66, 0.15);
+  border-bottom: 4px solid var(--sf-neon-magenta);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.45);
 }
 
 /* --- Tables --- */
@@ -220,8 +295,8 @@ table {
 }
 
 th {
-  background-color: var(--sf-light-blue);
-  color: var(--sf-dark);
+  background-color: #16244a;
+  color: var(--sf-heading);
 }
 
 /* On phones, wide tables (e.g. funding on the CV page) scroll inside their own box */
@@ -235,19 +310,20 @@ th {
 
 /* --- Footer --- */
 .nav-footer {
-  background-color: var(--sf-dark) !important;
-  color: rgba(255, 255, 255, 0.7);
+  background-color: var(--sf-night-deep) !important;
+  color: rgba(230, 236, 250, 0.7);
   border-top: 3px solid var(--sf-violet);
+  border-image: var(--sf-neon-line) 1;
 }
 
 .nav-footer a {
-  color: var(--sf-light-blue) !important;
+  color: var(--sf-link) !important;
 }
 
 /* --- Badges / tags --- */
 .quarto-listing-category .category {
-  background-color: var(--sf-light-violet);
-  color: var(--sf-violet);
+  background-color: rgba(143, 124, 255, 0.18);
+  color: #cfc6ff;
   border-radius: 12px;
   padding: 0.2rem 0.8rem;
   font-size: 0.85rem;
@@ -255,22 +331,23 @@ th {
 
 /* --- Blog listing --- */
 .quarto-listing .listing-title {
-  color: var(--sf-blue);
+  color: var(--sf-heading);
 }
 
 .quarto-listing .listing-title:hover {
-  color: var(--sf-violet);
+  color: var(--sf-link);
 }
 
 /* --- Sidebar TOC active item --- */
-.sidebar nav[role="doc-toc"] a.active {
-  border-left-color: var(--sf-violet);
-  color: var(--sf-violet);
+.sidebar nav[role="doc-toc"] a.active,
+nav#TOC a.active {
+  border-left-color: var(--sf-neon-magenta);
+  color: var(--sf-link);
 }
 
 /* --- Code blocks --- */
 pre.sourceCode {
-  border-left: 3px solid var(--sf-steelblue);
+  border-left: 3px solid var(--sf-link);
 }
 
 /* --- Carousel / Slideshow --- */
@@ -279,7 +356,8 @@ pre.sourceCode {
   margin: 0 auto 2rem auto;
   border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0 4px 20px rgba(30, 45, 66, 0.2);
+  border: 1px solid var(--sf-surface-line);
+  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.5);
 }
 
 #heroCarousel .carousel-inner {
@@ -287,7 +365,7 @@ pre.sourceCode {
 }
 
 #heroCarousel .carousel-item {
-  background-color: var(--sf-dark);
+  background-color: var(--sf-night-deep);
 }
 
 #heroCarousel .carousel-item img {
@@ -298,7 +376,7 @@ pre.sourceCode {
 }
 
 #heroCarousel .carousel-caption {
-  background: linear-gradient(0deg, rgba(30, 45, 66, 0.85) 0%, transparent 100%);
+  background: linear-gradient(0deg, rgba(7, 13, 34, 0.9) 0%, transparent 100%);
   left: 0;
   right: 0;
   bottom: 0;
@@ -321,16 +399,16 @@ pre.sourceCode {
 }
 
 #heroCarousel .carousel-indicators button {
-  background-color: var(--sf-steelblue);
+  background-color: var(--sf-link);
   border-radius: 50%;
   width: 10px;
   height: 10px;
   border: none;
-  opacity: 0.5;
+  opacity: 0.45;
 }
 
 #heroCarousel .carousel-indicators button.active {
-  background-color: var(--sf-violet);
+  background-color: var(--sf-neon-magenta);
   opacity: 1;
 }
 
@@ -347,20 +425,11 @@ pre.sourceCode {
   font-style: italic;
 }
 
-/* --- Utility --- */
-.text-accent {
-  color: var(--sf-violet);
-}
-
-.bg-accent-light {
-  background-color: var(--sf-light-blue);
-}
-
 /* --- Publication role badges --- */
 .badge-role {
   display: inline-block;
-  background-color: var(--sf-light-violet);
-  color: var(--sf-violet);
+  background-color: rgba(143, 124, 255, 0.18);
+  color: #cfc6ff;
   font-size: 0.7rem;
   font-weight: 600;
   text-transform: uppercase;

@@ -1,6 +1,49 @@
 /*-- scss:defaults --*/
 
-// Don't load the Cosmo theme's web font from Google's servers (GDPR);
+// Dark night-blue theme on top of Bootswatch "Superhero".
+// Component colours (dropdowns, search, tables, code) come from these
+// variables; page-specific styling lives in styles.css.
+
+// Don't load the theme's web font from Google's servers (GDPR);
 // use the fonts already installed on the visitor's device instead.
 $web-font-path: false;
 $font-family-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif;
+$font-size-base: 1rem;
+
+// Night-blue palette with the neon accents from the banner
+$body-bg:            #0b1430;
+$body-color:         #d5dcef;
+$headings-color:     #f2f5fc;
+$text-muted:         #93a1c3;
+$primary:            #7b68ee;
+$info:               #19c8ee;
+$link-color:         #4fdcff;
+$link-hover-color:   #ff6be6;
+$link-decoration:    none;
+$border-color:       rgba(255, 255, 255, 0.12);
+$hr-border-color:    rgba(255, 255, 255, 0.15);
+
+// Navbar and footer
+$navbar-bg:          #070d22;
+$navbar-fg:          #e6ecfa;
+$navbar-hl:          #4fdcff;
+$footer-bg:          #070d22;
+$footer-fg:          rgba(230, 236, 250, 0.7);
+
+// Components
+$card-bg:            #111c3d;
+$dropdown-bg:        #111c3d;
+$dropdown-link-color: $body-color;
+$dropdown-link-hover-color: #ffffff;
+$dropdown-link-hover-bg: #1a2a57;
+$input-bg:           #111c3d;
+$input-color:        $body-color;
+$table-color:        $body-color;
+$table-border-color: rgba(255, 255, 255, 0.1);
+$code-color:         #ff8ae9;
+$code-block-bg:      #0f1a38;
+
+// Superhero uses square corners; bring back soft rounding
+$border-radius:      0.4rem;
+$border-radius-sm:   0.3rem;
+$border-radius-lg:   0.6rem;

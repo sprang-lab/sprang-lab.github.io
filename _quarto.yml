@@ -4,6 +4,8 @@ project:
   render:
     - "**/*.qmd"
     - "!resources/"   # Resources section parked for now; see README.md
+  resources:
+    - images/helix.svg   # DNA background, referenced only from styles.css
 
 website:
   title: "Sprang Lab"
@@ -45,8 +47,7 @@ website:
 
 format:
   html:
-    theme:
-      light: [cosmo, theme.scss]
+    theme: [superhero, theme.scss]   # dark night-blue theme; colours in theme.scss + styles.css
     css: styles.css
     toc: true
     html-math-method: plain   # no math on the site; avoids loading MathJax from a CDN
