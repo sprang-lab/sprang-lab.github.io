@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Sprang Lab</title>
+<link>https://sprang-lab.github.io/blog/</link>
+<atom:link href="https://sprang-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Sprang Lab, the BioAI group of Dr. Maximilian Sprang at Johannes Gutenberg University Mainz</description>
+<generator>quarto-1.9.36</generator>
+<lastBuildDate>Sat, 17 Oct 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to the Sprang Lab</title>
+  <dc:creator>Maximilian Sprang</dc:creator>
+  <link>https://sprang-lab.github.io/blog/posts/2026-10-18-welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Welcome to the <strong>Sprang Lab</strong> — the BioAI group at Johannes Gutenberg University Mainz. This is where we share our research, code, and ideas in computational biology.</p>
+<p>The blog is written by the whole group. Lab members, external students, and alumni are welcome to post about their work, for example a recent paper or a finished thesis, either on their own or together with me. The workflow is simple:</p>
+<ol type="1">
+<li>Fork the repository</li>
+<li>Create a new folder under <code>blog/posts/</code> named <code>YYYY-MM-DD-your-title/</code></li>
+<li>Write your post as <code>index.qmd</code></li>
+<li>Open a pull request</li>
+</ol>
+<p>We look forward to sharing our work here. Stay tuned!</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://sprang-lab.github.io/blog/posts/2026-10-18-welcome/</guid>
+  <pubDate>Sat, 17 Oct 2026 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

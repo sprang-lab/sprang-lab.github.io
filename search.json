@@ -1,0 +1,317 @@
+[
+  {
+    "objectID": "research/publications.html",
+    "href": "research/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "* shared first authorship, † shared last / corresponding authorship\nORCID: 0000-0002-8438-4747"
+  },
+  {
+    "objectID": "research/publications.html#first-corresponding-author",
+    "href": "research/publications.html#first-corresponding-author",
+    "title": "Publications",
+    "section": "First & Corresponding Author",
+    "text": "First & Corresponding Author\n\nM Sprang, HA Hassan, Y Ektefaie, A Schmieder, A Wasilenko, M Hanke, R Martín-Peña, R Harkness, J Götting, A Murphy, JU Mayer, M Schäfer, A Friedrich, K Lenhof, S Rudorf, G Gronvall, J Kellmann, S Anders, B Aysan, N Saverschek, K Schuldt, M Güell, K Ladewig, G Hattab. A defence-in-depth strategy for securing AI-driven biological sequence design. Nature Communications 17, 11450, 2026 (Perspective).\nDOI: 10.1038/s41467-026-78758-5 · FIRST & CORRESPONDING AUTHOR\nHA Hassan*, A Anžel*, B İlgen, M Luchner, P Schramowski, A Blasse, JU Mayer, K Ladewig, G Hattab†, M Sprang†. A safety-centric perspective on innovation and risk in the use of artificial intelligence in genomics. Trends in Genetics 42(9), 820–831, 2026.\nDOI: 10.1016/j.tig.2026.04.001 · CORRESPONDING AUTHOR\nR Jakhmola, DA Selby, M Cihan, D Prascevic, E Petracci, P Ulivi, E Felip, R Caro-Consuegra, F Stella, P Solli, D Argnani, M Urbini, JU Mayer, SJ Vollmer, C Martin, J Ewald, M Sprang. MiracleNet: A Biologically Interpretable Machine Learning Model for Resected Non-small-cell Lung Cancer. Comput. Struct. Biotechnol. J. 35(1), 0145, 2026.\nDOI: 10.34133/csbj.0145 · CORRESPONDING AUTHOR\nUA Anyaegbunam, D Teschner, T Schmidlin, A Hildebrandt, JU Mayer, M Sprang†, MA Andrade-Navarro†. Cross-domain transfer learning from peptides to metabolites using a multi-property fine-tuned LLM. Bioinformatics 42(7), btag493, 2026.\nDOI: 10.1093/bioinformatics/btag493 · CO-CORRESPONDING\nM Cihan, UA Anyaegbunam, S Albrecht, MA Andrade-Navarro, M Sprang. Evaluating Genetic Regulators of MicroRNAs Using Machine Learning Models. Int. J. Mol. Sci. 26(12), 5757, 2025.\nDOI: 10.3390/ijms26125757 · CORRESPONDING AUTHOR\nDA Selby*, R Jakhmola*, M Sprang*, G Grossmann, H Raki, N Maani, D Pavliuk, J Ewald, S Vollmer. Visible neural networks for multi-omics integration: a critical review. Frontiers in Artificial Intelligence 8, 2025.\nDOI: 10.3389/frai.2025.1595291 · CO-FIRST AUTHOR\nA Gabele*, M Sprang*, M Cihan, M Welzel, A Nurbekova, K Romaniuk, S Dietzen, M Klein, G Bündgen, M Emelianov, G Harms, K Rajalingam, T Ziesmann, K Pape, B Wasser, D Gomez-Zepeda, K Braband, M Delacher, N Lemmermann, S Bittner, MA Andrade-Navarro, S Tenzer, K Luck, T Bopp, U Distler. Unveiling IRF4-steered regulation of context-dependent effector programs in Th17 and Treg cells. Cell Reports 44(3), 2025.\nDOI: 10.1016/j.celrep.2025.115407 · CO-FIRST AUTHOR\nM Sprang, J Möllmann, MA Andrade-Navarro, JF Fontaine. Overlooked poor-quality patient samples in sequencing data impair reproducibility of published clinically relevant datasets. Genome Biology 25(1), 222, 2024.\nDOI: 10.1186/s13059-024-03331-6 · FIRST AUTHOR\nM Sprang, MA Andrade-Navarro, JF Fontaine. Batch effect detection and correction in RNA-seq data using machine-learning-based automated assessment of quality. BMC Bioinformatics 23(Suppl 6), 279, 2022.\nDOI: 10.1186/s12859-022-04775-y · FIRST & CORRESPONDING AUTHOR\nM Sprang, M Krüger, MA Andrade-Navarro, JF Fontaine. Statistical guidelines for quality control of next-generation sequencing techniques. Life Science Alliance 4(11), 2021.\nDOI: 10.26508/lsa.202101113 · FIRST AUTHOR\nM Sprang, C Paret, J Faber. CpG-islands as markers for liquid biopsies of cancer patients. Cells 9(8), 1820, 2020.\nDOI: 10.3390/cells9081820 · FIRST & CORRESPONDING AUTHOR"
+  },
+  {
+    "objectID": "research/publications.html#co-author",
+    "href": "research/publications.html#co-author",
+    "title": "Publications",
+    "section": "Co-Author",
+    "text": "Co-Author\n\nY Ke, K George, K Pandya, G Großmann, DB Blumenthal, M Sprang, DA Selby, S Vollmer. BioDisco: Multi-Agent Hypothesis Generation with Dual-Mode Evidence, Iterative Feedback and Temporal Evaluation. Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-26), 6761–6769, 2026.\nDOI: 10.24963/ijcai.2026/752\nM Cihan, P More, M Sprang, F Marini, MA Andrade-Navarro. Target-site Dynamics Explain a Large Share of Apparent MicroRNA Differential Expression. RNA, 2026.\nDOI: 10.1261/rna.080990.126\nD Ai, L Kreyling, MA Battistone, ML Elizagaray, A Chen, S Bhushan, M Fijak, M Speckmann, G Michel, T Procida-Kowalski, M Bartkuhn, M Sprang, JU Mayer, A Meinhardt, C Pleuger. Depletion of CX3CR1⁺ macrophages results in disrupted functionality and immune surveillance within epididymis and testis. Mucosal Immunology 19(2), 1889–1906, 2026.\nDOI: 10.1016/j.mucimm.2026.01.011\nA Gabele, M Cihan, M Sprang, M Klein, A Nurbekova, K Romaniuk, N Lemmermann, S Tenzer, MA Andrade-Navarro, T Bopp, U Distler. Protocol for mapping murine transcription factor interactomes and composite motifs combining affinity purification mass spectrometry and ChIP-seq. STAR Protocols 6(4), 2025.\nDOI: 10.1016/j.xpro.2025.104184\nDA Selby, M Sprang, J Ewald, SJ Vollmer. Beyond the black box with biologically informed neural networks. Nature Reviews Genetics, 2025.\nDOI: 10.1038/s41576-025-00826-1\nM Cihan, G Schmauck, M Sprang, MA Andrade-Navarro. Unveiling cell-type-specific microRNA networks through alternative polyadenylation in glioblastoma. BMC Biology 23(1), 15, 2025.\nDOI: 10.1186/s12915-024-02104-8\nM Altinbay, J Wang, J Chen, D Schäfer, M Sprang, B Blagojevic, S Wölfl, MA Andrade-Navarro, I Dikic, S Knapp, X Cheng. Chem-CRISPR/dCas9FCPF: a platform for chemically induced epigenome editing. Nucleic Acids Research 52(19), 11587–11601, 2024.\nDOI: 10.1093/nar/gkae798\nAI Luppi, J Achterberg, S Schmidgall, IP Bilgin, P Herholz, M Sprang et al. Trainees’ perspectives and recommendations for catalyzing the next generation of NeuroAI researchers. Nature Communications 15(1), 9152, 2024.\nDOI: 10.1038/s41467-024-53375-2\nA Rubio, M Sprang, A Garzón, A Moreno-Rodriguez, ME Pachón-Ibáñez, J Pachón, MA Andrade-Navarro, AJ Pérez-Pulido. Analysis of bacterial pangenomes reduces CRISPR dark matter and reveals strong association between membranome and CRISPR-Cas systems. Science Advances 9(12), eadd8911, 2023.\nDOI: 10.1126/sciadv.add8911\nN Ziegler, M Cortés-López, F Alt, M Sprang, A Ustjanzew, N Lehmann, K El Malki, A Wingerter, A Russo, O Beck, S Attig, L Roth, J König, C Paret, J Faber. Analysis of RBP expression and binding sites identifies PTBP1 as a regulator of CD19 expression in B-ALL. Oncoimmunology 12(1), 2184143, 2023.\nDOI: 10.1080/2162402x.2023.2184143\nS Albrecht, M Sprang, MA Andrade-Navarro, JF Fontaine. seqQscorer: automated quality control of next-generation sequencing data using machine learning. Genome Biology 22, 75, 2021.\nDOI: 10.1186/s13059-021-02294-2\nC Paret, N Lehmann, H Bender, M Sprang, CJ Sommer, D Cana, L Seidmann, A Wingerter, MA Neu, K El Malki, F Alt, L Roth, F Marini, M Ottenhausen, M Glaser, M Knuf, A Russo, J Faber. Identification of an Immunogenic Medulloblastoma-Specific Fusion Involving EPC2 and GULP1. Cancers 13(22), 5838, 2021.\nDOI: 10.3390/cancers13225838\nO Beck, C Paret, A Russo, J Burhenne, M Fresnais, K Steimel, L Seidmann, D-C Wagner, N Vewinger, N Lehmann, M Sprang, N Backes, L Roth, MA Neu, A Wingerter, N Henninger, K El Malki, H Otto, F Alt, A Desuki, T Kindler, J Faber. Safety and activity of the combination of ceritinib and dasatinib in osteosarcoma. Cancers 12(4), 793, 2020.\nDOI: 10.3390/cancers12040793"
+  },
+  {
+    "objectID": "research/publications.html#preprints",
+    "href": "research/publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\nP Röchner, C Krämer, JU Mayer, F Rothlauf, S Albrecht, M Sprang. An imbalanced dataset with multiple feature representations for studying quality control of next-generation sequencing. arXiv:2604.04981, 2026.\nDOI: 10.48550/arXiv.2604.04981\nHA Hassan, K Puhger, A Saadat, JU Mayer, M Sprang. Life as a Function: Why Transformer Architectures Struggle to Gain Genome-Level Foundational Capabilities. bioRxiv, 2025.\nDOI: 10.1101/2025.01.13.632745 · CORRESPONDING AUTHOR\nS Albrecht, C Krämer, P Röchner, JU Mayer, F Rothlauf, MA Andrade-Navarro, M Sprang. Integrating the ENCODE blocklist for machine learning quality control of ChIP-seq data with seqQscorer. bioRxiv, 2025.\nDOI: 10.1101/2025.05.12.653555\nD Gharaie Amirabadi, C Jackson, DS Kim, M Sprang, K Amani. Prot2Prop: Structure-informed multitask protein property prediction. bioRxiv, 2026.\nDOI: 10.64898/2026.06.28.735009\nS Chagri, S Kunz, A Burgstaller, M Sprang, C Schirra, J Link, Z Zhou, R Meyer, J Fetzer, P Roth, Y Ren, S Si, F Mazzotta, M Wagner, I Lieberwirth, K Landfester, JU Mayer, DYW Ng, O Staufer, T Bopp, T Weil. Intracellular peptide nanofibers enhance T cell fitness and anti-cancer activity. ChemRxiv, 2026.\nDOI: 10.26434/chemrxiv-2024-3lxgk/v2\nJ Mutha, M Konga, M Sprang, JU Mayer, SM Schlenner. The quest continues: Human CD4⁺ CD16⁺ CD56⁺ ‘exTreg’ resemble NKT cells instead. bioRxiv, 2025.\nDOI: 10.1101/2025.08.05.667656\nT Bopp, N Truong-Andrevici, JF Fontaine, M Klein, S Rapp, A Wilson, S Kunz, M Sprang, L Mueller, M Schmitz, P Wild, S Wolf, T Kindler, M Gaida, B Cipriani, S Grabbe, MA Andrade-Navarro, H Schild, S Hughes, T Bohn. Solid tumors exploit proton-sensing GPR65 for orchestration of an immunosuppressive tumor microenvironment. Research Square, 2023.\nDOI: 10.21203/rs.3.rs-3057487/v1"
+  },
+  {
+    "objectID": "research/publications.html#software-data",
+    "href": "research/publications.html#software-data",
+    "title": "Publications",
+    "section": "Software & Data",
+    "text": "Software & Data\n\nHA Hassan, G D’Amico, M Sprang. DVQ: A library for the visual and statistical representation of nucleotide sequences. Work in progress.\ngithub.com/dna-llm/dvq\nM Sprang, HA Hassan et al. DNA-LLM Group at Hugging Face — Interactive dashboards for viral sequences and preprocessed open DNA sequence datasets. huggingface.co/DNA-LLM."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Note\n\n\n\nThis page is under construction. More details on our research themes will follow in the coming weeks.\nOur research spans computational biology, machine learning for genomics, and biosecurity. Below are our main themes — see Publications for the full paper list and Projects for active work."
+  },
+  {
+    "objectID": "research/index.html#research-themes",
+    "href": "research/index.html#research-themes",
+    "title": "Research",
+    "section": "Research Themes",
+    "text": "Research Themes\n\nDNA Language Models\nApplying large language model architectures to genomic sequences to learn the grammar of DNA.\n\n\nBiosecurity\nComputational approaches to biosecurity challenges, including sequence screening and risk assessment.\n\n\nOpen Science & Reproducibility\nBuilding open-source tools and sharing datasets to make computational biology more accessible and reproducible."
+  },
+  {
+    "objectID": "people/sevilmis.html",
+    "href": "people/sevilmis.html",
+    "title": "Ayşe Nur Sevilmiş",
+    "section": "",
+    "text": "I’m currently doing my M.Sc. in Bioinformatics at Saarland University and working as a research assistant at Universitätsmedizin Mainz on machine learning models for the immune system. My focus is on protein language models for antibodies and T-cell receptors.\n\n\n\nAntibodies and T-cell receptors come from similar genetic processes, and have separate, domain-specific language models. Our current project tests whether knowledge carries over between domain-specific protein language models and how knowledge is captured in them in a benchmark against general-purpose protein language models.\n← Back to People"
+  },
+  {
+    "objectID": "people/sevilmis.html#about",
+    "href": "people/sevilmis.html#about",
+    "title": "Ayşe Nur Sevilmiş",
+    "section": "",
+    "text": "I’m currently doing my M.Sc. in Bioinformatics at Saarland University and working as a research assistant at Universitätsmedizin Mainz on machine learning models for the immune system. My focus is on protein language models for antibodies and T-cell receptors."
+  },
+  {
+    "objectID": "people/sevilmis.html#project-protein-language-models-for-antibodies-and-t-cell-receptors",
+    "href": "people/sevilmis.html#project-protein-language-models-for-antibodies-and-t-cell-receptors",
+    "title": "Ayşe Nur Sevilmiş",
+    "section": "",
+    "text": "Antibodies and T-cell receptors come from similar genetic processes, and have separate, domain-specific language models. Our current project tests whether knowledge carries over between domain-specific protein language models and how knowledge is captured in them in a benchmark against general-purpose protein language models."
+  },
+  {
+    "objectID": "people/kammeyer.html",
+    "href": "people/kammeyer.html",
+    "title": "Laurenz Kammeyer",
+    "section": "",
+    "text": "My name is Laurenz, I’m 26 years old, and I’m currently pursuing my Master’s in Computer Science and Artificial Intelligence. In my free time, I enjoy working out, playing tennis and the piano, as well as volunteering as a firefighter. When I originally chose my degree, it was a close race between Computer Science and Physics. Ultimately, I decided to go with CS because of its hands-on accessibility. I consider myself a creative and curious person, so it was important to me to be able to actively develop my own ideas in my chosen field. While major breakthroughs in physics nowadays often require expensive labs and highly specialized equipment, in IT, you can build world-changing projects with just a laptop and a GitHub account. Driven by this passion for innovation, I am excited to contribute to the team’s research.\n\n\n\nRight now, I’m looking into how effective current AI safety methods are when applied to generative models in biology. Specifically, my research focuses on finding ways to prevent these models from generating harmful material. The goal is to modify the models so they can no longer be used to create, extend, or complete dangerous genetic sequences. To keep things entirely safe and avoid any exposure to actual toxic sequences, I am conducting my research using a proxy dataset made up of harmless enzymes.\n← Back to People"
+  },
+  {
+    "objectID": "people/kammeyer.html#about",
+    "href": "people/kammeyer.html#about",
+    "title": "Laurenz Kammeyer",
+    "section": "",
+    "text": "My name is Laurenz, I’m 26 years old, and I’m currently pursuing my Master’s in Computer Science and Artificial Intelligence. In my free time, I enjoy working out, playing tennis and the piano, as well as volunteering as a firefighter. When I originally chose my degree, it was a close race between Computer Science and Physics. Ultimately, I decided to go with CS because of its hands-on accessibility. I consider myself a creative and curious person, so it was important to me to be able to actively develop my own ideas in my chosen field. While major breakthroughs in physics nowadays often require expensive labs and highly specialized equipment, in IT, you can build world-changing projects with just a laptop and a GitHub account. Driven by this passion for innovation, I am excited to contribute to the team’s research."
+  },
+  {
+    "objectID": "people/kammeyer.html#project-ai-safety-for-generative-models-in-biology",
+    "href": "people/kammeyer.html#project-ai-safety-for-generative-models-in-biology",
+    "title": "Laurenz Kammeyer",
+    "section": "",
+    "text": "Right now, I’m looking into how effective current AI safety methods are when applied to generative models in biology. Specifically, my research focuses on finding ways to prevent these models from generating harmful material. The goal is to modify the models so they can no longer be used to create, extend, or complete dangerous genetic sequences. To keep things entirely safe and avoid any exposure to actual toxic sequences, I am conducting my research using a proxy dataset made up of harmless enzymes."
+  },
+  {
+    "objectID": "people/hassan.html",
+    "href": "people/hassan.html",
+    "title": "Hassan Ahmed Hassan",
+    "section": "",
+    "text": "Hassan is a part-time PhD student in the Sprang Lab, working on large-scale models trained on DNA and RNA that can serve as general-purpose tools for biology. He and Max met in 2024 through the OpenBioML open-science community and have worked together on DNA language models ever since, more recently extending that work to the biosecurity of AI. The aim of his project is models that advance fundamental research into genome function while also powering applied work such as early cancer detection and zoonotic disease surveillance. Safety runs through the core of the project, with a focus on making models that are reliable, interpretable, and resistant to misuse. Alongside his PhD, Hassan works full-time as a Senior Data Scientist at Hippo Digital in the UK, with clients in the healthcare sector.\n\nPapers with the lab\n\nHA Hassan*, A Anžel*, B İlgen, M Luchner, P Schramowski, A Blasse, JU Mayer, K Ladewig, G Hattab†, M Sprang†. A safety-centric perspective on innovation and risk in the use of artificial intelligence in genomics. Trends in Genetics, 2026. DOI: 10.1016/j.tig.2026.04.001\nM Sprang, HA Hassan, Y Ektefaie, et al. A defence-in-depth strategy for securing AI-driven biological sequence design. Nature Communications 17, 11450, 2026. DOI: 10.1038/s41467-026-78758-5\nHA Hassan, K Puhger, A Saadat, JU Mayer, M Sprang. Life as a Function: Why Transformer Architectures Struggle to Gain Genome-Level Foundational Capabilities. bioRxiv, 2025. DOI: 10.1101/2025.01.13.632745\nHA Hassan, G D’Amico, M Sprang. DVQ: A library for the visual and statistical representation of nucleotide sequences. Work in progress · github.com/dna-llm/dvq\n← Back to People"
+  },
+  {
+    "objectID": "people/hassan.html#about",
+    "href": "people/hassan.html#about",
+    "title": "Hassan Ahmed Hassan",
+    "section": "",
+    "text": "Hassan is a part-time PhD student in the Sprang Lab, working on large-scale models trained on DNA and RNA that can serve as general-purpose tools for biology. He and Max met in 2024 through the OpenBioML open-science community and have worked together on DNA language models ever since, more recently extending that work to the biosecurity of AI. The aim of his project is models that advance fundamental research into genome function while also powering applied work such as early cancer detection and zoonotic disease surveillance. Safety runs through the core of the project, with a focus on making models that are reliable, interpretable, and resistant to misuse. Alongside his PhD, Hassan works full-time as a Senior Data Scientist at Hippo Digital in the UK, with clients in the healthcare sector.\n\nPapers with the lab\n\nHA Hassan*, A Anžel*, B İlgen, M Luchner, P Schramowski, A Blasse, JU Mayer, K Ladewig, G Hattab†, M Sprang†. A safety-centric perspective on innovation and risk in the use of artificial intelligence in genomics. Trends in Genetics, 2026. DOI: 10.1016/j.tig.2026.04.001\nM Sprang, HA Hassan, Y Ektefaie, et al. A defence-in-depth strategy for securing AI-driven biological sequence design. Nature Communications 17, 11450, 2026. DOI: 10.1038/s41467-026-78758-5\nHA Hassan, K Puhger, A Saadat, JU Mayer, M Sprang. Life as a Function: Why Transformer Architectures Struggle to Gain Genome-Level Foundational Capabilities. bioRxiv, 2025. DOI: 10.1101/2025.01.13.632745\nHA Hassan, G D’Amico, M Sprang. DVQ: A library for the visual and statistical representation of nucleotide sequences. Work in progress · github.com/dna-llm/dvq"
+  },
+  {
+    "objectID": "people/alumni.html",
+    "href": "people/alumni.html",
+    "title": "Alumni",
+    "section": "",
+    "text": "Sara Farmahini\nNow: PhD student at the Bernhard Nocht Institute for Tropical Medicine, Hamburg\nSara is a bioinformatician with a background in genetics and computational biology. Her research focuses on applying machine learning and deep learning to cancer immunotherapy, particularly the identification of tumor-specific T cell receptors (TCRs). Her Master’s research combined cancer genomics, neoantigen prediction, immunological databases, and transformer-based models to investigate peptide–MHC–TCR interactions, with a focus on non-small cell lung cancer.\n\n\n\n\n\n\n\n\n\nRashika Jakhmola\nMaster’s student · Internship\nNow: PhD student in the MLO lab of Prof. Florian Büttner, University Medical Center of Goethe University Frankfurt\nRashika worked on single-cell models and biologically informed neural networks for clinical omics data integration and prediction.\n\nPapers with the lab\n\nR Jakhmola, DA Selby, M Cihan, et al., JU Mayer, S Vollmer, C Martin, J Ewald, M Sprang. MiracleNet: A biologically interpretable machine learning model for resected non-small-cell lung cancer. Computational and Structural Biotechnology Journal, 2026. DOI: 10.34133/csbj.0145\nDA Selby*, R Jakhmola*, M Sprang*, et al. Visible neural networks for multi-omics integration: a critical review. Frontiers in Artificial Intelligence 8, 2025. DOI: 10.3389/frai.2025.1595291\n\n\n\n\n\n← Back to People"
+  },
+  {
+    "objectID": "impressum.html",
+    "href": "impressum.html",
+    "title": "Impressum",
+    "section": "",
+    "text": "Dr. Maximilian Sprang\nSprang Lab (BioAI group), Department of Dermatology\nUniversity Medical Center of Johannes Gutenberg University Mainz\nLangenbeckstraße 1\n55131 Mainz, Germany\nPhone: +49 (0) 6131 17-7858\nEmail: masprang@uni-mainz.de\nResponsible for the content pursuant to § 18 (2) MStV: Dr. Maximilian Sprang, address as above."
+  },
+  {
+    "objectID": "impressum.html#provider",
+    "href": "impressum.html#provider",
+    "title": "Impressum",
+    "section": "",
+    "text": "Dr. Maximilian Sprang\nSprang Lab (BioAI group), Department of Dermatology\nUniversity Medical Center of Johannes Gutenberg University Mainz\nLangenbeckstraße 1\n55131 Mainz, Germany\nPhone: +49 (0) 6131 17-7858\nEmail: masprang@uni-mainz.de\nResponsible for the content pursuant to § 18 (2) MStV: Dr. Maximilian Sprang, address as above."
+  },
+  {
+    "objectID": "impressum.html#liability-for-content",
+    "href": "impressum.html#liability-for-content",
+    "title": "Impressum",
+    "section": "Liability for content",
+    "text": "Liability for content\nThe content of this website was created with care. However, we cannot guarantee that it is complete, correct, or up to date."
+  },
+  {
+    "objectID": "impressum.html#liability-for-links",
+    "href": "impressum.html#liability-for-links",
+    "title": "Impressum",
+    "section": "Liability for links",
+    "text": "Liability for links\nThis website contains links to external websites. We have no influence on their content and therefore cannot accept any liability for it. The respective provider or operator of a linked page is always responsible for its content. If we become aware of any legal violations, we will remove such links immediately."
+  },
+  {
+    "objectID": "impressum.html#copyright",
+    "href": "impressum.html#copyright",
+    "title": "Impressum",
+    "section": "Copyright",
+    "text": "Copyright\nTexts and images on this website are protected by copyright and may not be reused without permission. Einstein Foundation Award photos: Sebastian Gabsch / Einstein Stiftung Berlin."
+  },
+  {
+    "objectID": "impressum.html#data-protection",
+    "href": "impressum.html#data-protection",
+    "title": "Impressum",
+    "section": "Data protection",
+    "text": "Data protection\nThis website is hosted on GitHub Pages (GitHub, Inc., USA), which processes visitors’ IP addresses in server logs in order to deliver the website (Art. 6 (1) (f) GDPR). The website sets no cookies and uses no analytics or tracking. If you contact us by email, we use your message only to reply to you. Photos and short biographies of lab members are published with their consent and removed on request. For questions about your data or your rights under the GDPR, please contact us at the email address above."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to the Sprang Lab\n\n\n\nnews\n\n\n\nIntroducing the website and blog of the Sprang Lab, the BioAI group.\n\n\n\n\n\nOct 18, 2026\n\n\nMaximilian Sprang\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/2026-10-18-welcome/index.html",
+    "href": "blog/posts/2026-10-18-welcome/index.html",
+    "title": "Welcome to the Sprang Lab",
+    "section": "",
+    "text": "Welcome to the Sprang Lab — the BioAI group at Johannes Gutenberg University Mainz. This is where we share our research, code, and ideas in computational biology.\nThe blog is written by the whole group. Lab members, external students, and alumni are welcome to post about their work, for example a recent paper or a finished thesis, either on their own or together with me. The workflow is simple:\n\nFork the repository\nCreate a new folder under blog/posts/ named YYYY-MM-DD-your-title/\nWrite your post as index.qmd\nOpen a pull request\n\nWe look forward to sharing our work here. Stay tuned!"
+  },
+  {
+    "objectID": "people/damico.html",
+    "href": "people/damico.html",
+    "title": "Giorgia D’Amico",
+    "section": "",
+    "text": "I am an M.Sc. student in Applied Bioinformatics and a student research assistant at JGU Mainz, working at the intersection of AI and biology.\n\n\n\nMy project investigates how AI can learn and generate biological DNA sequences. Specifically, my research spans from alignment-free sequence analysis and learned genomic representations to the generative modelling of bacteriophage DNA, utilizing both autoregressive and diffusion-based approaches. By building reproducible pipelines for training, inference, and validation, I explore how AI can design diverse and biologically plausible phage genomes, opening new possibilities for synthetic genomics.\n\nPapers with the lab\n\nHA Hassan, G D’Amico, M Sprang. DVQ: A library for the visual and statistical representation of nucleotide sequences. Work in progress · github.com/dna-llm/dvq\n← Back to People"
+  },
+  {
+    "objectID": "people/damico.html#about",
+    "href": "people/damico.html#about",
+    "title": "Giorgia D’Amico",
+    "section": "",
+    "text": "I am an M.Sc. student in Applied Bioinformatics and a student research assistant at JGU Mainz, working at the intersection of AI and biology."
+  },
+  {
+    "objectID": "people/damico.html#project-generative-ai-for-bacteriophage-genomes",
+    "href": "people/damico.html#project-generative-ai-for-bacteriophage-genomes",
+    "title": "Giorgia D’Amico",
+    "section": "",
+    "text": "My project investigates how AI can learn and generate biological DNA sequences. Specifically, my research spans from alignment-free sequence analysis and learned genomic representations to the generative modelling of bacteriophage DNA, utilizing both autoregressive and diffusion-based approaches. By building reproducible pipelines for training, inference, and validation, I explore how AI can design diverse and biologically plausible phage genomes, opening new possibilities for synthetic genomics.\n\nPapers with the lab\n\nHA Hassan, G D’Amico, M Sprang. DVQ: A library for the visual and statistical representation of nucleotide sequences. Work in progress · github.com/dna-llm/dvq"
+  },
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "People",
+    "section": "",
+    "text": "Independent Junior Group Leader\nFull CV →\n\n\n\n\n\n\n\n\nPhD student\nCo-supervised with Prof. Miguel Andrade-Navarro\nBatch effect detection in bulk and single-cell data using representation learning\n\n\n\n\n\n\n\n\nPhD student Part-time\nAlso Senior Data Scientist, Hippo Digital (UK)\nSafe, general-purpose DNA and RNA foundation models\nProfile & papers →\n\n\n\n\n\n\n\n\nMD candidate\nAlternative polyadenylation in single-cell data of skin cancer\n\n\n\n\n\n\n\n\nMD candidate\nScholarship holder, Else Kröner Promotionskolleg „ImmunYoAge“\nAlternative polyadenylation as a marker of biological immune age\nProfile →\n\n\n\n\n\n\n\n\nM.Sc. student & student research assistant\nGenerative AI for bacteriophage genomes\nProfile →\n\n\n\n\n\n\n\n\nM.Sc. student & research assistant\nProtein language models for antibodies and T-cell receptors\nProfile →\n\n\n\n\n\n\n\n\nM.Sc. student\nEmbedding search and sequence risk scoring to safeguard DNA synthesis"
+  },
+  {
+    "objectID": "people/index.html#team",
+    "href": "people/index.html#team",
+    "title": "People",
+    "section": "",
+    "text": "Independent Junior Group Leader\nFull CV →\n\n\n\n\n\n\n\n\nPhD student\nCo-supervised with Prof. Miguel Andrade-Navarro\nBatch effect detection in bulk and single-cell data using representation learning\n\n\n\n\n\n\n\n\nPhD student Part-time\nAlso Senior Data Scientist, Hippo Digital (UK)\nSafe, general-purpose DNA and RNA foundation models\nProfile & papers →\n\n\n\n\n\n\n\n\nMD candidate\nAlternative polyadenylation in single-cell data of skin cancer\n\n\n\n\n\n\n\n\nMD candidate\nScholarship holder, Else Kröner Promotionskolleg „ImmunYoAge“\nAlternative polyadenylation as a marker of biological immune age\nProfile →\n\n\n\n\n\n\n\n\nM.Sc. student & student research assistant\nGenerative AI for bacteriophage genomes\nProfile →\n\n\n\n\n\n\n\n\nM.Sc. student & research assistant\nProtein language models for antibodies and T-cell receptors\nProfile →\n\n\n\n\n\n\n\n\nM.Sc. student\nEmbedding search and sequence risk scoring to safeguard DNA synthesis"
+  },
+  {
+    "objectID": "people/index.html#external-students",
+    "href": "people/index.html#external-students",
+    "title": "People",
+    "section": "External Students",
+    "text": "External Students\n\n\n\n\n\nLaurenz Kammeyer\nM.Sc. student, TU Darmstadt\nAI safety for generative models in biology\nProfile →\n\n\n\n\n\n\n\nLaszlo Lang\nB.Sc. student\nCo-supervised with Prof. Asis Hallab\nStatistical batch-effect modelling for omics data"
+  },
+  {
+    "objectID": "people/index.html#alumni",
+    "href": "people/index.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\nFormer students and members of the lab are listed on the alumni page →\n\nInterested in joining? We are always happy to hear from motivated students and researchers. Get in touch at masprang@uni-mainz.de."
+  },
+  {
+    "objectID": "people/mansour.html",
+    "href": "people/mansour.html",
+    "title": "Yasmin Mansour",
+    "section": "",
+    "text": "My name is Yasmin Mansour, and I am currently in the 12th semester of my medical studies at Johannes Gutenberg University Mainz, completing my Practical Year (final year of medical school). I am also pursuing a Doctor of Medicine (Dr. med.) degree. In addition, I am a qualified nurse and work alongside my medical studies at the University Medical Center Mainz."
+  },
+  {
+    "objectID": "people/mansour.html#about",
+    "href": "people/mansour.html#about",
+    "title": "Yasmin Mansour",
+    "section": "",
+    "text": "My name is Yasmin Mansour, and I am currently in the 12th semester of my medical studies at Johannes Gutenberg University Mainz, completing my Practical Year (final year of medical school). I am also pursuing a Doctor of Medicine (Dr. med.) degree. In addition, I am a qualified nurse and work alongside my medical studies at the University Medical Center Mainz."
+  },
+  {
+    "objectID": "people/mansour.html#project-alternative-polyadenylation-as-a-marker-of-biological-immune-age",
+    "href": "people/mansour.html#project-alternative-polyadenylation-as-a-marker-of-biological-immune-age",
+    "title": "Yasmin Mansour",
+    "section": "Project: Alternative polyadenylation as a marker of biological immune age",
+    "text": "Project: Alternative polyadenylation as a marker of biological immune age\nAs the human body ages, the immune system undergoes functional changes that can vary between individuals and across different immune cell types. This project aims to investigate whether alternative polyadenylation (APA), a mechanism involved in the regulation of messenger RNA processing, reflects age-related changes in immune cells and can be used to determine biological immune age.\nTo this end, single-cell transcriptomic data from different immune cell types will be analyzed, and machine learning approaches will be used to develop an APA-based “Immune Aging Clock”. Subsequently, the project will investigate how infections and vaccinations influence these age-associated APA patterns and whether such changes can be used to detect alterations in biological immune age.\n← Back to People"
+  },
+  {
+    "objectID": "people/sprang.html",
+    "href": "people/sprang.html",
+    "title": "Dr. Maximilian Sprang",
+    "section": "",
+    "text": "I am a computational biologist and, since August 2026, Independent Junior Group Leader for Bioinformatics and Genomics at the Department of Dermatology of the University Medical Center and the Institute for Quantitative and Computational Biosciences (IQCB) of Johannes Gutenberg University Mainz, Germany, where I head the Sprang Lab (BioAI group). From 2027, I will take up a position as IQCB Scientist, the first appointment of this kind at the new institute. I am also Junior Faculty at the Max Planck Graduate Center (MPGC) Mainz and a PI in the Center for Synthetic Genomics Heidelberg–Karlsruhe–Mainz (Center SynGen). My research focuses on machine learning for genomics, with particular interests in DNA language models, data quality in multi-omics, and the biosecurity implications of generative AI in the life sciences. I am a father of two.\nI maintain active international collaborations, including work with DeoxyTech Ltd. (Manchester, UK) on DNA embedding models, involvement in the OpenBioML open science community, and partnerships with researchers in Edinburgh, Barcelona and Zürich and across Europe on biosecurity and AI safety in biology."
+  },
+  {
+    "objectID": "people/sprang.html#about",
+    "href": "people/sprang.html#about",
+    "title": "Dr. Maximilian Sprang",
+    "section": "",
+    "text": "I am a computational biologist and, since August 2026, Independent Junior Group Leader for Bioinformatics and Genomics at the Department of Dermatology of the University Medical Center and the Institute for Quantitative and Computational Biosciences (IQCB) of Johannes Gutenberg University Mainz, Germany, where I head the Sprang Lab (BioAI group). From 2027, I will take up a position as IQCB Scientist, the first appointment of this kind at the new institute. I am also Junior Faculty at the Max Planck Graduate Center (MPGC) Mainz and a PI in the Center for Synthetic Genomics Heidelberg–Karlsruhe–Mainz (Center SynGen). My research focuses on machine learning for genomics, with particular interests in DNA language models, data quality in multi-omics, and the biosecurity implications of generative AI in the life sciences. I am a father of two.\nI maintain active international collaborations, including work with DeoxyTech Ltd. (Manchester, UK) on DNA embedding models, involvement in the OpenBioML open science community, and partnerships with researchers in Edinburgh, Barcelona and Zürich and across Europe on biosecurity and AI safety in biology."
+  },
+  {
+    "objectID": "people/sprang.html#education",
+    "href": "people/sprang.html#education",
+    "title": "Dr. Maximilian Sprang",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\nYear\nDegree\nInstitution\n\n\n\n\n2024\nDr. rer. nat. (summa cum laude), Bioinformatics\nJohannes Gutenberg University Mainz\n\n\n\nThesis: Identification and exploration of quality-related characteristics in multi-omics data using machine learning\nSupervisor: Prof. Miguel Andrade-Navarro\n\n\n2020\nM.Sc. Applied Bioinformatics\nJohannes Gutenberg University Mainz\n\n\n2016\nB.Sc. Biology\nJohannes Gutenberg University Mainz"
+  },
+  {
+    "objectID": "people/sprang.html#professional-experience",
+    "href": "people/sprang.html#professional-experience",
+    "title": "Dr. Maximilian Sprang",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\n\n\n\n\n\n\n\nPeriod\nPosition\nInstitution\n\n\n\n\nFrom 2027\nIQCB Scientist\nInstitute for Quantitative and Computational Biosciences (IQCB), Mainz\n\n\nSince 08/2026\nIndependent Junior Group Leader, Bioinformatics and Genomics (Sprang Lab)\nDepartment of Dermatology, University Medical Center & IQCB, JGU Mainz\n\n\n03/2025 – 07/2026\nLead Bioinformatician / Junior Group Lead (Mayer Lab), funded by the ReALity Initiative of Rhineland-Palatinate\nUniversity Medical Center, JGU Mainz\n\n\n06/2024 – 12/2024\nSenior Researcher\nGerman Research Center for Artificial Intelligence (DFKI), Kaiserslautern\n\n\nSince 01/2023\nVolunteer, Project Lead & Contributor\nOpenBioML\n\n\n07/2020 – 07/2024\nPhD Student in Bioinformatics (PostDoc from 09/2023)\nJohannes Gutenberg University Mainz\n\n\n08/2017 – 09/2020\nResearch Assistant\nUniversity Medical Center, JGU Mainz"
+  },
+  {
+    "objectID": "people/sprang.html#collaborations-activities",
+    "href": "people/sprang.html#collaborations-activities",
+    "title": "Dr. Maximilian Sprang",
+    "section": "Collaborations & Activities",
+    "text": "Collaborations & Activities\n\nScientific Advisor to DeoxyTech Ltd., a biotech start-up in Manchester, UK, working on DNA embedding models\nBiosecurity consortium — co-leading efforts with partners at the Robert Koch Institute (RKI) and the German Research Center for Artificial Intelligence (DFKI) on security and dual-use risks of generative AI in biology, funded by the Rhine-Main Universities and the Wübben Stiftung Wissenschaft\nSandpit Conference on generative AI for biological sequence design (Wübben Stiftung Wissenschaft), resulting in guidelines on the use and biorisks of generative AI in the life sciences, published as a Perspective in Nature Communications (2026)\nAIxBio teaching curriculum — leading a project to design an AIxBio curriculum based on a workshop format for sharing open problems, with the Scottish Universities Life Sciences Alliance (SULSA), the IQCB, and funding from Rhineland-Palatinate\nOpenBioML — contributor and project lead in NeuroAI, generative modelling for bio-sequences, and science policy\nMerck Innovation Cup — selected participant (2022), mentor in the alumni network, invited Coach for Team Digital Medicine (2025)\nMentoring — mentor at AI Grid (BMFTR-funded) and coach at its AI summer school; mentee in the curAMento programme (curATime)"
+  },
+  {
+    "objectID": "people/sprang.html#funding",
+    "href": "people/sprang.html#funding",
+    "title": "Dr. Maximilian Sprang",
+    "section": "Funding",
+    "text": "Funding\nMore than €700,000 in attracted funding, plus substantial compute grants. Main grants:\n\n\n\n\n\n\n\n\n\nPeriod\nProject\nFunder\nAmount\n\n\n\n\n2027–2028\nSVITER — Spatiotemporal Atlas of Vascular Inflammaging and Therapeutic Targeting of DPP4 for Endothelial Resilience\nReALity Initiative, Rhineland-Palatinate\n€493,000\n\n\n2026–2027\nAlternative polyadenylation as a marker of immune aging (Else Kröner Promotionskolleg „ImmunYoAge“)\nElse Kröner-Fresenius-Stiftung / TRANSMED\n€26,355\n\n\n2026–2027\nErring Rigorously — On quantifying the impact of errors in the wet lab on downstream analysis\nEinstein Foundation\n€100,000\n\n\n2025\nSeed funding for a consortium to benchmark security and dual-use risks of AI models in biology\nRhine-Main Universities\n€30,000\n\n\n2025–2026\nGenerative AI for Biological Sequence Design — Opportunities, Challenges and Responsible Innovation (Sandpit)\nWübben Stiftung Wissenschaft\n€50,000\n\n\n\nSmaller grants include Carl-Zeiss-Foundation funding for guided diffusion models for phage genome generation (2026), for datasets and ethical frameworks for AI-driven synthetic genomics (SynGen, 2025), and for mixed models of artifacts in RNA sequencing (MMAseq microgrant, 2023–2024); funding from Rhineland-Palatinate and the IQCB for an AIxBio teaching workshop with SULSA (2026); and a curATime CurAFellow position on exposome modelling of chest pain unit admissions (2024–2025). Compute grants at the NHR cluster in Göttingen provided 2.5 million CPU core hours and 25,000 GPU hours (2024–2025)."
+  },
+  {
+    "objectID": "people/sprang.html#academic-distinctions",
+    "href": "people/sprang.html#academic-distinctions",
+    "title": "Dr. Maximilian Sprang",
+    "section": "Academic Distinctions",
+    "text": "Academic Distinctions\n\nEinstein Early Career Researcher Award 2025 — project “Erring Rigorously”\nBoehringer Ingelheim Foundation Dissertation Award 2025\nInvited participant, Brazilian-German Frontiers of Science and Technology Symposium (BRAGFOST), Alexander von Humboldt Foundation\nDoctorate summa cum laude (2024)\nMedizinsonderpreis, Rhineland-Palatinate Idea Competition (2022) — “Draw@Home” automated blood sampling concept; subsequently GeneNovate Entrepreneurship course (2024)\nMerck Innovation Cup participant (2022, 1% admission rate of 3,800+ applicants)"
+  },
+  {
+    "objectID": "people/sprang.html#teaching-supervision",
+    "href": "people/sprang.html#teaching-supervision",
+    "title": "Dr. Maximilian Sprang",
+    "section": "Teaching & Supervision",
+    "text": "Teaching & Supervision\n\nBachelor and Master courses in Bioinformatics: programming, gene expression analysis, and machine learning\nSupervision of PhD students, MD candidates, Master’s and Bachelor students in functional genomics, sequence design, data quality, and data integration\nFirst supervisor and mentor in the Else Kröner Promotionskolleg „ImmunYoAge“ (TRANSMED, University Medical Center Mainz); member of a PhD thesis advisory committee"
+  },
+  {
+    "objectID": "people/sprang.html#publications",
+    "href": "people/sprang.html#publications",
+    "title": "Dr. Maximilian Sprang",
+    "section": "Publications",
+    "text": "Publications\nSee the full list on the publications page."
+  },
+  {
+    "objectID": "people/sprang.html#contact",
+    "href": "people/sprang.html#contact",
+    "title": "Dr. Maximilian Sprang",
+    "section": "Contact",
+    "text": "Contact\n\nORCID: 0000-0002-8438-4747\nEmail: masprang@uni-mainz.de\nLinkedIn: maximilian-sprang\nInstitution: Sprang Lab (BioAI group), Department of Dermatology & Institute for Quantitative and Computational Biosciences (IQCB), Johannes Gutenberg University Mainz, Germany\nAlso: Junior Faculty, Max Planck Graduate Center (MPGC) Mainz · PI, Center SynGen (Center for Synthetic Genomics Heidelberg–Karlsruhe–Mainz)"
+  },
+  {
+    "objectID": "research/projects.html",
+    "href": "research/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Note\n\n\n\nThis page is under construction. Details on our active and past projects are coming soon."
+  }
+]

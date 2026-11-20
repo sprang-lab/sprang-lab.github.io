@@ -1,0 +1,371 @@
+/* ==========================================================
+   Sprang Lab (BioAI Group) — Blue / Steelblue / Violet palette
+   ========================================================== */
+
+/* --- Palette variables --- */
+:root {
+  --sf-blue:        #2b5797;
+  --sf-steelblue:   #4a7fb5;
+  --sf-light-blue:  #d0e1f9;
+  --sf-violet:      #7b68ae;
+  --sf-light-violet:#e8e0f0;
+  --sf-dark:        #1e2d42;
+  --sf-text:        #2c3e50;
+  --sf-muted:       #6c7a89;
+  --sf-bg:          #f8f9fc;
+
+  /* Bootstrap overrides */
+  --bs-link-color:       var(--sf-steelblue);
+  --bs-link-hover-color: var(--sf-blue);
+  --bs-body-color:       var(--sf-text);
+}
+
+/* --- Navbar --- */
+.navbar {
+  background: linear-gradient(135deg, var(--sf-dark) 0%, var(--sf-blue) 100%) !important;
+  border-bottom: 3px solid var(--sf-violet);
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: rgba(255, 255, 255, 0.9) !important;
+  transition: color 0.2s;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: var(--sf-light-blue) !important;
+}
+
+/* --- Headings --- */
+h1, h2, h3 {
+  color: var(--sf-dark);
+}
+
+h2 {
+  border-bottom: 2px solid var(--sf-light-blue);
+  padding-bottom: 0.3rem;
+}
+
+/* --- Links --- */
+a {
+  color: var(--sf-steelblue);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: var(--sf-violet);
+}
+
+/* --- Landing page cards --- */
+.card-section {
+  background: white;
+  border-radius: 8px;
+  padding: 1.8rem;
+  box-shadow: 0 2px 8px rgba(43, 87, 151, 0.08);
+  border-top: 4px solid var(--sf-steelblue);
+  transition: transform 0.2s, box-shadow 0.2s;
+  height: 100%;
+}
+
+.card-section:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(43, 87, 151, 0.15);
+}
+
+.card-section h3 {
+  color: var(--sf-blue);
+  margin-bottom: 0.8rem;
+}
+
+.card-section.accent-violet {
+  border-top-color: var(--sf-violet);
+}
+
+.card-section.accent-violet h3 {
+  color: var(--sf-violet);
+}
+
+/* --- Hero / landing --- */
+.hero-banner {
+  background: linear-gradient(135deg, var(--sf-dark) 0%, var(--sf-blue) 60%, var(--sf-violet) 100%);
+  color: white;
+  padding: 3rem 2rem;
+  border-radius: 0 0 12px 12px;
+  margin-bottom: 2rem;
+}
+
+.hero-banner h1 {
+  color: white;
+  font-size: 2.4rem;
+}
+
+.hero-banner p {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1.15rem;
+}
+
+.hero-banner .hero-tagline {
+  display: inline-block;
+  color: white;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.95rem;
+  border-left: 3px solid var(--sf-light-violet);
+  padding-left: 0.6rem;
+}
+
+/* --- Profile images --- */
+.profile-photo {
+  border-radius: 50%;
+  border: 3px solid var(--sf-steelblue);
+  box-shadow: 0 2px 10px rgba(43, 87, 151, 0.15);
+  object-fit: cover;
+}
+
+/* --- Person card (people listing) --- */
+.person-card {
+  text-align: center;
+  padding: 1.5rem 1rem;
+}
+
+.person-card img {
+  width: 150px;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  margin-bottom: 1rem;
+}
+
+.person-card h3 {
+  font-size: 1.15rem;
+  margin-bottom: 0.3rem;
+}
+
+.person-card p {
+  color: var(--sf-muted);
+  font-size: 0.9rem;
+}
+
+/* --- Alumni page entries --- */
+.alumni-entry {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--sf-light-blue);
+}
+
+.alumni-entry img {
+  width: 140px;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+}
+
+.alumni-entry h3 {
+  margin-top: 0.5rem;
+}
+
+.alumni-role {
+  color: var(--sf-muted);
+  font-size: 0.9rem;
+}
+
+.alumni-now {
+  display: inline-block;
+  background-color: var(--sf-light-blue);
+  color: var(--sf-dark);
+  font-size: 0.85rem;
+  padding: 0.2rem 0.7rem;
+  border-radius: 12px;
+}
+
+@media (max-width: 575.98px) {
+  .alumni-entry .g-col-12:first-child {
+    text-align: center;
+  }
+}
+
+/* --- Joint papers list (profiles and alumni) --- */
+.joint-papers {
+  background: var(--sf-bg);
+  border-left: 3px solid var(--sf-violet);
+  border-radius: 0 6px 6px 0;
+  padding: 0.8rem 1rem 0.2rem;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.joint-papers ul {
+  padding-left: 1.1rem;
+}
+
+.joint-papers li {
+  margin-bottom: 0.5rem;
+}
+
+/* --- Full photo on individual profile pages --- */
+.profile-portrait {
+  width: 100%;
+  max-width: 320px;
+  border-radius: 10px;
+  border-bottom: 4px solid var(--sf-violet);
+  box-shadow: 0 4px 16px rgba(30, 45, 66, 0.15);
+}
+
+/* --- Tables --- */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  background-color: var(--sf-light-blue);
+  color: var(--sf-dark);
+}
+
+/* On phones, wide tables (e.g. funding on the CV page) scroll inside their own box */
+@media (max-width: 575.98px) {
+  main table {
+    display: block;
+    overflow-x: auto;
+    font-size: 0.85rem;
+  }
+}
+
+/* --- Footer --- */
+.nav-footer {
+  background-color: var(--sf-dark) !important;
+  color: rgba(255, 255, 255, 0.7);
+  border-top: 3px solid var(--sf-violet);
+}
+
+.nav-footer a {
+  color: var(--sf-light-blue) !important;
+}
+
+/* --- Badges / tags --- */
+.quarto-listing-category .category {
+  background-color: var(--sf-light-violet);
+  color: var(--sf-violet);
+  border-radius: 12px;
+  padding: 0.2rem 0.8rem;
+  font-size: 0.85rem;
+}
+
+/* --- Blog listing --- */
+.quarto-listing .listing-title {
+  color: var(--sf-blue);
+}
+
+.quarto-listing .listing-title:hover {
+  color: var(--sf-violet);
+}
+
+/* --- Sidebar TOC active item --- */
+.sidebar nav[role="doc-toc"] a.active {
+  border-left-color: var(--sf-violet);
+  color: var(--sf-violet);
+}
+
+/* --- Code blocks --- */
+pre.sourceCode {
+  border-left: 3px solid var(--sf-steelblue);
+}
+
+/* --- Carousel / Slideshow --- */
+#heroCarousel {
+  max-width: 1000px;
+  margin: 0 auto 2rem auto;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(30, 45, 66, 0.2);
+}
+
+#heroCarousel .carousel-inner {
+  border-radius: 10px;
+}
+
+#heroCarousel .carousel-item {
+  background-color: var(--sf-dark);
+}
+
+#heroCarousel .carousel-item img {
+  width: 100%;
+  height: min(50vw, 480px);
+  object-fit: contain;
+  object-position: center center;
+}
+
+#heroCarousel .carousel-caption {
+  background: linear-gradient(0deg, rgba(30, 45, 66, 0.85) 0%, transparent 100%);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 2.5rem 1.5rem 1.2rem;
+  border-radius: 0 0 10px 10px;
+}
+
+#heroCarousel .carousel-caption h5 {
+  color: white;
+  font-size: 1.2rem;
+  margin-bottom: 0.2rem;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+#heroCarousel .carousel-caption p {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 0.95rem;
+  margin-bottom: 0;
+}
+
+#heroCarousel .carousel-indicators button {
+  background-color: var(--sf-steelblue);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  border: none;
+  opacity: 0.5;
+}
+
+#heroCarousel .carousel-indicators button.active {
+  background-color: var(--sf-violet);
+  opacity: 1;
+}
+
+#heroCarousel .carousel-control-prev-icon,
+#heroCarousel .carousel-control-next-icon {
+  filter: drop-shadow(0 1px 3px rgba(0,0,0,0.4));
+}
+
+.photo-credit {
+  display: block;
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.5);
+  margin-top: 0.3rem;
+  font-style: italic;
+}
+
+/* --- Utility --- */
+.text-accent {
+  color: var(--sf-violet);
+}
+
+.bg-accent-light {
+  background-color: var(--sf-light-blue);
+}
+
+/* --- Publication role badges --- */
+.badge-role {
+  display: inline-block;
+  background-color: var(--sf-light-violet);
+  color: var(--sf-violet);
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 0.15rem 0.5rem;
+  border-radius: 10px;
+  vertical-align: middle;
+}
